@@ -250,8 +250,13 @@ VERİLMEZSE KAPANIRDI. O ZAMAN BİR TÜR KAPANIŞ OLURDU.."
 GİTTİĞİNDE ATI BULUR."
 
 ###################################################################################
-####################################### 1984 ######################################
+################################# ALGERNONA ÇİÇEKLER ##############################
 ###################################################################################
+
+<> " ŞİMDİ ANLIYORUM Kİ , ÜNİVERSİTEYE GİTMENİN VE BİR EĞİTİM ALMANIN EN ÖNEMLİ NEDENLERİNDEN BİRİ , TÜM HAYATIMIZ BOYUNCA
+ DOĞRU OLDUĞUNA İNANDIĞINIZ ŞEYLERİN DOĞRU OLMADIĞINI VE HİÇ BİR ŞEYİN GÖRÜNDÜĞÜ GİBİ OLMADIĞINI ÖĞRENMEKMİŞ."
+
+<> " HAYAT DEDİĞİN ŞEY NEDİR Kİ ? LABİRENTLERDEN OLUŞAN BİR KUTU."
 
 ###################################################################################
 ####################################### 1984 ######################################
