@@ -1,12 +1,20 @@
 # OKUDUĞUM KİTAPLAR
 
-<br> <br>
+
 
 Benimle direk iletişime geçmek için;
 ##### telegram :[**`t.me/ufukcankurt`**](https://t.me/ufukcankurt)
 
-<br> <br> 
+<br> 
 
+ ***NOT:*** 
+ 
+ - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için , mavi renkteki kitap isimlerine tıklayabilirsiniz.*
+ - "  **  " bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
+
+> Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek ediyorsanız. Lütfen [***Ziyaret Edin / About Me***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
+
+<br>
 
 
 ###   Şuanda okuduğum kitap ;
@@ -15,7 +23,9 @@ Benimle direk iletişime geçmek için;
 |:--------:|:--------:|:--------:|:------:|:------:|
 | MALORİE | JOSH MALERMAN | 332 |23 EYLÜL | - |
 
-<br>
+
+
+
 
 ## 2020
 
@@ -32,8 +42,6 @@ Benimle direk iletişime geçmek için;
 | 27. |__**__ SERENAD | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
 | 26. | ON KÜÇÜK ZENCİ | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
 | - |
-| -- | ------------------------------------------ | __AĞUSTOS 2020__ | ------ | -------------- | ----------- |
-| - | 
 | 25. | 1984 | GEORGE ORWELL | 350 | 28 AĞUSTOS | 30 AĞUSTOS |
 | 24. |  KARDEŞİMİN HİKAYESİ | ZÜLFÜ LİVANELİ | 324 | 26 AĞUSTOS | 27 AĞUSTOS |
 | 23. | İSTANBUL'UN NAZIM PLANI | SUNAY AKIN | 168 | 23 AĞUSTOS | 25 AĞUSTOS |
@@ -46,8 +54,6 @@ Benimle direk iletişime geçmek için;
 | 16. | SİMYACI | PAULO COELHO | 188 | 6 AĞUSTOS | 5 AĞUSTOS  |
 | 15. | KIRMIZI PAZARTESİ |GABRİEL GARCİA MARQUEZ	 | 107 | 4 AĞUSTOS | 5 AĞUSTOS |
 | - |
-| -- | ------------------------------------------ | __TEMMUZ 2020__ | ------ | -------------- | ----------- |
-| - | 
 | 14. | ÖTEKİ | FYODOR DOSTOYEVSKİ | 181 | 27 TEMMUZ | 30 TEMMUZ |
 | 13. | KUMARBAZ | FYODOR DOSTOYEVSKİ | 177 | 25 TEMMUZ | 26 TEMMUZ |
 | 12. | SIRÇA KÖŞK | SABAHATTİN ALİ | 166 | 22 TEMMUZ | 24 TEMMUZ |
@@ -56,82 +62,52 @@ Benimle direk iletişime geçmek için;
 | 9. | ZAFER SIZLANILARAK KAZANILMAZ | HALUK TATAR | 480 | 8 TEMMUZ | 14 TEMMUZ |
 | 8. | KABLOLARDAKİ HAYALET | KEVİN MİTNİCK | 475 | 1 TEMMUZ | 6 TEMMUZ |
 | - |
-| -- | ------------------------------------------ | __TEMMUZ 2020__ | ------ | -------------- | ----------- |
-| - | 
 | 7. | BEYAZ GECELER | FYODOR DOSTOYEVSKİ 	 | 202 | 13 HAZİRAN | 22 HAZİRAN |
 | - |
-| -- | ------------------------------------------ | __MART 2020__ | ------ | -------------- | ----------- |
-| - | 
 | 6. | YERALTINDAN NOTLAR | FYODOR DOSTOYEVSKİ 	 | 151 | 22 MART | 24 MART |
 | 5. | __**__ SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
 | - |
-| -- | ------------------------------------------ | __ŞUBAT 2020__ | ------ | -------------- | ----------- |
-| - | 
 | 4. | SOKAK KEDİSİ BOB | JAMES BOWEN | 226 | 28 ŞUBAT | 29 ŞUBAT |
 | 3. | BİR ÖMÜR NASIL YAŞANIR | İLBER ORTAYLI | 262 | 18 ŞUBAT | 27 ŞUBAT |
 | 2. | SOL AYAĞIM | CHRİSTY BROWN | 188 | 14 ŞUBAT  | 17 ŞUBAT |
 | - |
-| -- | ------------------------------------------ | __OCAK 2020__ | ------ | -------------- | ----------- |
-| - | 
 | 1. | TEFTİŞ | JOSH MALERMAN | 444 | 7 OCAK | 22 OCAK |
-| - |
-| - |
-| - |
-| -- | ------------------------------------------ | __ARALIK 2019__ | ------ | -------------- | ----------- |
-| - | 
+
+## 2019
+
+| # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
+|:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 22. | BEYAZ ZAMBAKLAR ÜLKESİNDE | GRIGORIY PETROV  | 242 | 26 KASIM | 12 ARALIK |
 | - |
-| -- | ------------------------------------------ | __KASIM 2019__ | ------ | -------------- | ----------- |
-| - | 
 | 21. | YARATICILIK , İÇİNDEKİ GÜCLERİ <br> SERBEST BIRAK | OSHO | 194 | 19 KASIM | 25 KASIM |
 | 20. |__**__ YENİ BİR YAŞAMIN ANAHTARI  | OSHO | 184 | 16 KASIM | 18 KASIM |
 | 19. | __**__ HUZUR ARAYIŞI  | OSHO | 144 | 14 KASIM | 15 KASIM |
 | 18. | VE KIZIN ADI GECE | ERTÜRK AKŞAM | 272 | 8 KASIM | 13 KASIM |
 | - |
-| -- | ------------------------------------------ | __EKİM 2019__ | ------ | -------------- | ----------- |
-| - | 
 | 17. | WALDEN | HENRY DAVID THOREAU  | 293 | 6 EKİM | 18 EKİM |
 | - |
-| -- | ------------------------------------------ | __EYLÜL 2019__ | ------ | -------------- | ----------- |
-| - | 
 | 16. | OD | İSKENDER PALA | 329 | 2 EYLÜL | 7 EYLÜL |
 | - |
-| -- | ------------------------------------------ | __AĞUSTOS 2019__ | ------ | -------------- | ----------- |
-| - | 
 | 15. | 7 YAŞINDA BİNDİĞİM KAMYONUN <br> FRENLERİ PATLADI VE HAYATA YUVARLANDIM | ATAMAN ÖZBAY | 213 | 5 AĞUSTOS | 10 AĞUSTOS |
 | 14. | SİSİFOS SÖYLENİ | ALBERT CAMUS | 159 | 1 AĞUSTOS | 4 AĞUSTOS |
 | - |
-| -- | ------------------------------------------ | __TEMMUZ 2019__ | ------ | -------------- | ----------- |
-| - | 
 | 13. | CAROL GÖMÜLMEDEN | JOSH MALERMAN | 397 |  15 TEMMUZ | 27 TEMMUZ |
 | 12. | KIRMIZI PİYANO | JOSH MALERMAN | 351 | 7 TEMMUZ | 13 TEMMUZ |
 | 11. | TONGUE FU , SÖZLÜ DÖVÜŞ SANATI | SAM HORN | 289 | 28 HAZİRAN | 5 TEMMUZ |
-| - |
-| -- | ------------------------------------------ | __HAZİRAN 2019__ | ------ | -------------- | ----------- |
 | - | 
 | 10. | CESUR YENİ DÜNYA | ALDOUS HUXLEY | 266 | 4 HAZİRAN | 24 HAZİRAN |
 | - |
-| -- | ------------------------------------------ | __MAYIS 2019__ | ------ | -------------- | ----------- |
-| - |
 | 9. | OLASILIKSIZ | ADAM FAWER | 470 | 28 NİSAN | 3 MAYIS |
-| - |
-| -- | ------------------------------------------ | __NİSAN 2019__ | ------ | -------------- | ----------- |
 | - |
 | 8. | AKLINDAN BİR SAYI TUT | JOHN VERDON | 475  | 23 NİSAN | 27 NİSAN |
 | 7. | MARSLI | ANDY WEIR | 416 | 13 NİSAN | 23 NİSAN |
 | 6. | OASIS |  EILIS BARKET | 365 | 27 MART | 12 NİSAN |
 | - |
-| -- | ------------------------------------------ | __MART 2019__ | ------ | -------------- | ----------- |
-| - |
 | 5. | ZAMAN ÇARKI | KEN GRIMWOOD | 298 | 25 MART | 26 MART |
 | 4. |SIZMA SANATI | KEVİN D. MİTNİCK | 296 | 19 SUBAT | 21 MART |
 | - |
-| -- | ------------------------------------------ | __ŞUBAT 2019__ | ------ | -------------- | ----------- |
-| - |
 | 3. | ALDATMA SANATI | KEVİN D. MİTNİCK | 309 | 13 ŞUBAT | 19 ŞUBAT
 | 2. | İNSANLARI OKUMAK  | JO-ELLAN DİMİTRİUS | 450 | 2 ŞUBAT  | 8 ŞUBAT |
-| - |
-| -- | ------------------------------------------ | __OCAK 2019__ | ------ | -------------- | ----------- |
 | - |
 | 1. | ELON MUSK  | ASHLEE VANCE | 455 | 6 OCAK  | 28 OCAK |
 
