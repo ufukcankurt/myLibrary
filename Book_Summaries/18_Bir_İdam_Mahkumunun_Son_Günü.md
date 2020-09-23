@@ -3,7 +3,7 @@
 ### 117 Sayfa
 #### 22.09.2020
 
-<br> <br> <br>
+<br> 
 
  Kitabımız aslında iki parça diyebiliriz. Kitabın ilk 40 sayfasında önsöz adı altında bir takım mesajlar ve çıkarımlar yapılmaktadır. İdam edilme yani bir diğer değişle , suçlunun tüm meydanda herkesin önünde canı alınırken, tüm insanların neşe ve coşku ile bunu izliyor oluşu ne kadar üzücü ve iğrenç bir durum değil mi ? Niye bir insan başka bir insanın canlı canlı bilerek öldürülmesinden keyif alır ki ? O suçlu veya idam edilen her kimse , en azından hapiste ceza çekse bile , ailesine , eşine , kızına bir faydası 
 dokunabilir. Hapiste olsa bile güzel şeyler yapabilir. Fakat toprağın altındaki ölmüş , cesedi çürümeye mahkum bir insanın kimseye faydası yoktur. Zaten kitabın Önsözü altında bu durum fazlasıyla incelenmiştir.
