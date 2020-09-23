@@ -12,7 +12,7 @@ Benimle direk iletişime geçmek için;
  - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için , mavi renkteki kitap isimlerine tıklayabilirsiniz.*
  - "  **  " bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
 
-> Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek ediyorsanız. Lütfen [***Ziyaret Edin / About Me***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
+> Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen [***Ziyaret Edin / About Me***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
 
 <br>
 
