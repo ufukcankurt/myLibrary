@@ -9,7 +9,7 @@ Benimle direk iletişime geçmek için;
 
 
 
-### > >  Şuanda okuduğum kitap ;
+###   Şuanda okuduğum kitap ;
 
 | Kitap Adı | Yazarı | Sayfa Sayısı |Başlangıç Tarihi| Bitiş Tarihi |
 |:--------:|:--------:|:--------:|:------:|:------:|
@@ -49,7 +49,7 @@ Benimle direk iletişime geçmek için;
 | -- | ------------------------------------------ | __TEMMUZ 2020__ | ------ | -------------- | ----------- |
 | - | 
 | 14. | ÖTEKİ | FYODOR DOSTOYEVSKİ | 181 | 27 TEMMUZ | 30 TEMMUZ |
-| 13. | KUMARBAZ | FYODOR DOSTOYEVSKİ | 177 | 25 TEMMUZ | 26 TEMMUZ |
+| 13.[Ö] | KUMARBAZ | FYODOR DOSTOYEVSKİ | 177 | 25 TEMMUZ | 26 TEMMUZ |
 | 12. | SIRÇA KÖŞK | SABAHATTİN ALİ | 166 | 22 TEMMUZ | 24 TEMMUZ |
 | 11. | AKLINI EN İYİ ŞEKİLDE KULLAN | TONY BUZAN | 250 | 18 TEMMUZ | 21 TEMMUZ |
 | 10. | İÇİMİZDEKİ ŞEYTAN | SABAHATTİN ALİ | 254 | 15 TEMMUZ | 17 TEMMUZ |
@@ -60,10 +60,6 @@ Benimle direk iletişime geçmek için;
 | - | 
 | 7. | BEYAZ GECELER | FYODOR DOSTOYEVSKİ 	 | 202 | 13 HAZİRAN | 22 HAZİRAN |
 | - |
-| -- | ------------------------------------------ | __MAYIS 2020__ | ------ | -------------- | ----------- |
-| - | - | - | - | - | - |
-| -- | ------------------------------------------ | __NİSAN 2020__ | ------ | --------------- | ------------- |
-| - | - | - | - | - | - |
 | -- | ------------------------------------------ | __MART 2020__ | ------ | -------------- | ----------- |
 | - | 
 | 6. | YERALTINDAN NOTLAR | FYODOR DOSTOYEVSKİ 	 | 151 | 22 MART | 24 MART |
