@@ -49,7 +49,7 @@ Benimle direk iletişime geçmek için;
 | -- | ------------------------------------------ | __TEMMUZ 2020__ | ------ | -------------- | ----------- |
 | - | 
 | 14. | ÖTEKİ | FYODOR DOSTOYEVSKİ | 181 | 27 TEMMUZ | 30 TEMMUZ |
-| 13.[Ö] | KUMARBAZ | FYODOR DOSTOYEVSKİ | 177 | 25 TEMMUZ | 26 TEMMUZ |
+| 13. | KUMARBAZ | FYODOR DOSTOYEVSKİ | 177 | 25 TEMMUZ | 26 TEMMUZ |
 | 12. | SIRÇA KÖŞK | SABAHATTİN ALİ | 166 | 22 TEMMUZ | 24 TEMMUZ |
 | 11. | AKLINI EN İYİ ŞEKİLDE KULLAN | TONY BUZAN | 250 | 18 TEMMUZ | 21 TEMMUZ |
 | 10. | İÇİMİZDEKİ ŞEYTAN | SABAHATTİN ALİ | 254 | 15 TEMMUZ | 17 TEMMUZ |
@@ -63,7 +63,7 @@ Benimle direk iletişime geçmek için;
 | -- | ------------------------------------------ | __MART 2020__ | ------ | -------------- | ----------- |
 | - | 
 | 6. | YERALTINDAN NOTLAR | FYODOR DOSTOYEVSKİ 	 | 151 | 22 MART | 24 MART |
-| 5. | SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
+| 5. | __**__ SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
 | - |
 | -- | ------------------------------------------ | __ŞUBAT 2020__ | ------ | -------------- | ----------- |
 | - | 
