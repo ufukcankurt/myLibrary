@@ -33,20 +33,20 @@ Romanımız " Saat Dört " ,diyerekten hikayeyi bitirir..
 
 - ***Sayfa : 47***
 <p align="center" >
-    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/1_IMG_1805.jpg" width="300">
+    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/1_IMG_1805.jpg" width="300" target="_blank">
 </p>
 
 - ***Sayfa : 48***
 <p align="center" >
-    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/2_IMG_1809.jpg" width="300">
+    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/2_IMG_1809.jpg" width="300" target="_blank">
 </p>
 
 - ***Sayfa : 66***
 <p align="center" >
-    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/3_IMG_1810.jpg" width="300">
+    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/3_IMG_1810.jpg" width="300" target="_blank">
 </p>
 
 - ***Sayfa : 67***
 <p align="center" >
-    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/5_IMG_1812.jpg" width="300">
+    <img src="images/../../images/18_Bir_İdam_Mahkumunun_Son_Günü/5_IMG_1812.jpg" width="300" target="_blank">
 </p>
