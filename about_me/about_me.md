@@ -6,7 +6,9 @@
    
    içermektedir. <br> <br>
 
-    >*Burada yazdığım şeyler tamamen benim kendi düşüncelerimden ve görüşlerimden oluşmaktadır. Elbette yanlış olduğunu düşündüğünüz ve katılmadığınız şeyler olabilir. Bunları birlikte tartışabilir ve birlikte yeni şeyler öğrenebiliriz.. Sevgiyle kalın.* <br> <br> <br>
+    >*Burada yazdığım şeyler tamamen benim kendi düşüncelerimden ve görüşlerimden oluşmaktadır. Elbette yanlış olduğunu düşündüğünüz ve katılmadığınız şeyler olabilir. Eksik olan veya şunlarda olsaydı daha güzel olurdu dediğiniz şeyler varsa eğer ; Bunları birlikte tartışabilir ve birlikte yeni şeyler öğrenebiliriz.. Sevgiyle kalın.* 
+    
+    <br> 
    
 
 ____
