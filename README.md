@@ -33,7 +33,7 @@ Benimle direk iletişime geçmek için;
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 35. | MALORİE | JOSH MALERMAN | 332 | 23 EYLÜL | - |
 | 34. | ***[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC.md)*** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
-| 33. | SONUNCU KURBAN | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
+| 33. | ***[SONUNCU KURBAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/17_Sonuncu_Kurban.md)*** | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
 | 32. | KENDİNE AİT BİR ODA | VIRGINIA WOLF | 160 | 18 EYLÜL  | 19 EYLÜL  |
 | 31. |__**__ ALGERNON'A ÇİÇEKLER | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
 | 30. | 16.50 TRENİ | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
