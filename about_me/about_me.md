@@ -37,7 +37,7 @@ ____
 
 <br>
 
- İşte bununla birlikte dedim ki , artık bir şeylerin değişmesi gerekiyor. Hemen 4 tane kitap ve bir tane masa lambası siparişi ile yola başladım.. İncelediğinizde aşağıda göreceğiniz üzere , 2019 yılı benim için yavaş yavaş kitap okuma alışkanlığımı kazanma yılı oldu diyebilirim. Hiç kitap okumayan bir insan için , 2019 da " 22 tane " kitap okumuş olmanın büyük bir nimet olduğunu düşünüyorum..
+ İşte bununla birlikte dedim ki , artık bir şeylerin değişmesi gerekiyor. Hemen 4 tane kitap ve bir tane masa lambası siparişi ile yola başladım.. İncelediğinizde [aşağıda](https://github.com/ufukcankurt/myLibrary#2019) göreceğiniz üzere , 2019 yılı benim için yavaş yavaş kitap okuma alışkanlığımı kazanma yılı oldu diyebilirim. Hiç kitap okumayan bir insan için , 2019 da " 22 tane " kitap okumuş olmanın büyük bir nimet olduğunu düşünüyorum..
 
  2020 yılına da aslında çokta istediğim gibi başladığım söylenemez çünkü az sayıda kitap okuyordum.. Zaten hemen ardından maalesef Covid-19 pandemi sürecini yaşadık.. Pandemi süreci benim için bu anlamda kâbus gibi geçti diyebilirim.. Üzücü bir şekilde, hiç kitap okumadım..
 
@@ -65,13 +65,13 @@ ___
  
 > *Her gün bir adım ileri git. Boş işlerle , boş düşüncelerle , boş insanlarla uğraşma. Onların yerine kitap oku , kendini geliştir , yeni bir şeyler öğren. Kendini öyle güzel donat ki yürüyen bir kütüphane ol.*
 
-> *İllaki her gün , yada her gece boşa zaman harcıyoruz , televizyon izlemek veya ona benzer şeyler.. Peki onun yerine ; elimize bir tane kitap alsak , onu yediye bölsek ve her gece bir bölüm okusak. Haftada bir , yılda elli iki kitap demektir !*
+> *İllaki her gün , yada her gece boşa zaman harcıyoruz , televizyon izlemek veya ona benzer şeyler.. Peki onun yerine ; elimize bir tane kitap alsak , onu yediye bölsek ve her gece bir bölüm okusak. Haftada bir , yılda elli iki kitap demektir. Değişim böyle başlar !*
 
 > *Her gün oku. Her şeyi oku. Ağaç olmak nasıldır? Van Gogh olmak nasıldır? İkinci Dünya Savaşı'na katılmış olmak nasıldır? Öğren. Kendinle sosyalleş. Yoksa unutursun nasıl biri olduğunu.*
 
-> *1 kitap okursan her şeyi bildiğini sanırsın. 2 kitap okursan bildiklerinden kuşku duyarsın. 3 kitap okursan hiçbir şey bilmediğini anlarsın. ( Detachment )*
+> *1 kitap okursan her şeyi bildiğini sanırsın. 2 kitap okursan bildiklerinden kuşku duyarsın. 3 kitap okursan hiçbir şey bilmediğini anlarsın.  ( Detachment )*
 
-> *Gençlere önerimdir : Gittiğiniz okullar size yetmeyecek , yetiştirmeyecek. Öyle kurgulandılar. Deliler gibi kitap okuyun ! Okuyun , güçlenin ! ( İlber Ortaylı )*
+> *Gençlere önerimdir : Gittiğiniz okullar size yetmeyecek , yetiştirmeyecek. Öyle kurgulandılar. Deliler gibi kitap okuyun ! Okuyun , güçlenin !  ( İlber Ortaylı )*
 
 
     
