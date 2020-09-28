@@ -17,38 +17,30 @@ Benimle direk iletişime geçmek için;
 <br>
 
 
-###   Şuanda okuduğum kitap ;
-
-| Kitap Adı | Yazarı | Sayfa Sayısı |Başlangıç Tarihi| Bitiş Tarihi |
-|:--------:|:--------:|:--------:|:------:|:------:|
-| MALORİE | JOSH MALERMAN | 332 |23 EYLÜL | - |
-
-
-
 
 
 ## 2020
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 35. | MALORİE | JOSH MALERMAN | 332 | 23 EYLÜL | - |
+| 35. |__* *__  ***[MALORİE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/19_Malorie.md)*** | JOSH MALERMAN | 332 | 23 EYLÜL | 27 EYLÜL |
 | 34. | ***[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC.md)*** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
 | 33. | ***[SONUNCU KURBAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/17_Sonuncu_Kurban.md)*** | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
 | 32. | KENDİNE AİT BİR ODA | VIRGINIA WOLF | 160 | 18 EYLÜL  | 19 EYLÜL  |
-| 31. |__**__ ALGERNON'A ÇİÇEKLER | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
+| 31. |__* *__ ALGERNON'A ÇİÇEKLER | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
 | 30. | **[16.50 TRENİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/15_16.50_Treni.md)** | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
 | 29. | SAHTEKAR | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
 | 28. | GENÇ WERTHER'İN ACILARI | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
-| 27. |__**__ SERENAD | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
+| 27. |__* *__ SERENAD | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
 | 26. | ON KÜÇÜK ZENCİ | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
 | - |
 | 25. | 1984 | GEORGE ORWELL | 350 | 28 AĞUSTOS | 30 AĞUSTOS |
 | 24. |  KARDEŞİMİN HİKAYESİ | ZÜLFÜ LİVANELİ | 324 | 26 AĞUSTOS | 27 AĞUSTOS |
 | 23. | İSTANBUL'UN NAZIM PLANI | SUNAY AKIN | 168 | 23 AĞUSTOS | 25 AĞUSTOS |
 | 22. | SİL BAŞTAN | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
-| 21. |__**__ BAŞLANGIÇ | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
+| 21. |__* *__ BAŞLANGIÇ | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
 | 20. | KÖRLÜK | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
-| 19. |__**__ KÜRK MANTOLU MADONNA | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
+| 19. |__* *__ KÜRK MANTOLU MADONNA | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
 | 18. | HAYVAN ÇİFTLİĞİ | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
 | 17. | AKIL OYUNLARI | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
 | 16. | SİMYACI | PAULO COELHO | 188 | 6 AĞUSTOS | 5 AĞUSTOS  |
@@ -65,7 +57,7 @@ Benimle direk iletişime geçmek için;
 | 7. | BEYAZ GECELER | FYODOR DOSTOYEVSKİ 	 | 202 | 13 HAZİRAN | 22 HAZİRAN |
 | - |
 | 6. | YERALTINDAN NOTLAR | FYODOR DOSTOYEVSKİ 	 | 151 | 22 MART | 24 MART |
-| 5. | __**__ SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
+| 5. | __* *__ SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
 | - |
 | 4. | SOKAK KEDİSİ BOB | JAMES BOWEN | 226 | 28 ŞUBAT | 29 ŞUBAT |
 | 3. | BİR ÖMÜR NASIL YAŞANIR | İLBER ORTAYLI | 262 | 18 ŞUBAT | 27 ŞUBAT |
@@ -80,8 +72,8 @@ Benimle direk iletişime geçmek için;
 | 22. | BEYAZ ZAMBAKLAR ÜLKESİNDE | GRIGORIY PETROV  | 242 | 26 KASIM | 12 ARALIK |
 | - |
 | 21. | YARATICILIK , İÇİNDEKİ GÜCLERİ <br> SERBEST BIRAK | OSHO | 194 | 19 KASIM | 25 KASIM |
-| 20. |__**__ YENİ BİR YAŞAMIN ANAHTARI  | OSHO | 184 | 16 KASIM | 18 KASIM |
-| 19. | __**__ HUZUR ARAYIŞI  | OSHO | 144 | 14 KASIM | 15 KASIM |
+| 20. |__* *__ YENİ BİR YAŞAMIN ANAHTARI  | OSHO | 184 | 16 KASIM | 18 KASIM |
+| 19. | __* *__ HUZUR ARAYIŞI  | OSHO | 144 | 14 KASIM | 15 KASIM |
 | 18. | VE KIZIN ADI GECE | ERTÜRK AKŞAM | 272 | 8 KASIM | 13 KASIM |
 | - |
 | 17. | WALDEN | HENRY DAVID THOREAU  | 293 | 6 EKİM | 18 EKİM |
