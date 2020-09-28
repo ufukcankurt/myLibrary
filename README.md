@@ -26,7 +26,7 @@ Benimle direk iletişime geçmek için;
 | 34. | ***[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC.md)*** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
 | 33. | ***[SONUNCU KURBAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/17_Sonuncu_Kurban.md)*** | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
 | 32. | KENDİNE AİT BİR ODA | VIRGINIA WOLF | 160 | 18 EYLÜL  | 19 EYLÜL  |
-| 31. |__* *__ ALGERNON'A ÇİÇEKLER | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
+| 31. |__* *__ ***[ALGERNON'A ÇİÇEKLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/16_Algernona_%C3%87i%C3%A7ekler.md)*** | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
 | 30. | **[16.50 TRENİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/15_16.50_Treni.md)** | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
 | 29. | SAHTEKAR | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
 | 28. | GENÇ WERTHER'İN ACILARI | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
