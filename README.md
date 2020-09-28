@@ -10,19 +10,18 @@ Benimle direk iletişime geçmek için;
  ***NOT:*** 
  
  - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için , mavi renkteki kitap isimlerine tıklayabilirsiniz.*
- - "  **  " bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
+ - "  * *  " bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
 
 > Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen [***Ziyaret Edin / About Me***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
 
 <br>
 
 
-
-
 ## 2020
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 36. | FARELER VE İNSANLAR | JOHN STEİNBECK | 111 | 29 EYLÜL | - |
 | 35. |__* *__  ***[MALORİE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/19_Malorie.md)*** | JOSH MALERMAN | 332 | 23 EYLÜL | 27 EYLÜL |
 | 34. | ***[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC.md)*** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
 | 33. | ***[SONUNCU KURBAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/17_Sonuncu_Kurban.md)*** | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
