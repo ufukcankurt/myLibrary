@@ -69,27 +69,14 @@ ___
 
 > *Her gün oku. Her şeyi oku. Ağaç olmak nasıldır? Van Gogh olmak nasıldır? İkinci Dünya Savaşı'na katılmış olmak nasıldır? Öğren. Kendinle sosyalleş. Yoksa unutursun nasıl biri olduğunu.*
 
-> *1 kitap okursan her şeyi bildiğini sanırsın. 2 kitap okursan bildiklerinden kuşku duyarsın. 3 kitap okursan hiçbir şey bilmediğini anlarsın.  ( Detachment )*
+> *1 kitap okursan her şeyi bildiğini sanırsın. 2 kitap okursan bildiklerinden kuşku duyarsın. 3 kitap okursan hiçbir şey bilmediğini anlarsın.  (Detachment)*
 
-> *Gençlere önerimdir : Gittiğiniz okullar size yetmeyecek , yetiştirmeyecek. Öyle kurgulandılar. Deliler gibi kitap okuyun ! Okuyun , güçlenin !  ( İlber Ortaylı )*
+> *Gençlere önerimdir : Gittiğiniz okullar size yetmeyecek , yetiştirmeyecek. Öyle kurgulandılar. Deliler gibi kitap okuyun ! Okuyun , güçlenin !  (İlber Ortaylı)*
+
+> *Kitapları yakmaktan daha büyük bir suç varsa o da onları okumamaktır. (Joseph Brodsky)*
+
+> *Okumayı , hiçbir hazineye değişmem. (Edward Gibbon)*
+
+> *Okumadan geçen bir gün yitirilmiş bir gündür.*
 
 
-    
-    
-
-
-
-
-<br><br><br>
-
-<p align="center" >
-    <img src="images/../../images/about_me/1.jpg" width="600"  target="_blank">
-</p>
-
-<p align="center" >
-    <img src="images/../../images/about_me/2.jpg" width="600"  target="_blank">
-</p>
-
-<p align="center" >
-    <img src="images/../../images/about_me/3.jpg" width="600"  target="_blank">
-</p>
