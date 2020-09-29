@@ -28,7 +28,7 @@ Benimle direk iletişime geçmek için;
 | 32. | KENDİNE AİT BİR ODA | VIRGINIA WOLF | 160 | 18 EYLÜL  | 19 EYLÜL  |
 | 31. |__* *__ ***[ALGERNON'A ÇİÇEKLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/16_Algernona_%C3%87i%C3%A7ekler.md)*** | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
 | 30. | **[16.50 TRENİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/15_16.50_Treni.md)** | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
-| 29. | SAHTEKAR | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
+| 29. | ***[SAHTEKAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/14_Sahtekar.md)*** | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
 | 28. | GENÇ WERTHER'İN ACILARI | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
 | 27. |__* *__ SERENAD | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
 | 26. | ON KÜÇÜK ZENCİ | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
