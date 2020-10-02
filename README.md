@@ -31,7 +31,7 @@ Benimle direk iletişime geçmek için;
 | 29. | ***[SAHTEKAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/14_Sahtekar.md)*** | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
 | 28. |__* *__ ***[GENÇ WERTHER'İN ACILARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/13_Gen%C3%A7_Werther'in_Ac%C4%B1lar%C4%B1.md)*** | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
 | 27. |__* *__ SERENAD | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
-| 26. | ON KÜÇÜK ZENCİ | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
+| 26. | ***[ON KÜÇÜK ZENCİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/11_On_K%C3%BC%C3%A7%C3%BCk_Zenci.md)*** | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
 | - |
 | 25. | 1984 | GEORGE ORWELL | 350 | 28 AĞUSTOS | 30 AĞUSTOS |
 | 24. |  KARDEŞİMİN HİKAYESİ | ZÜLFÜ LİVANELİ | 324 | 26 AĞUSTOS | 27 AĞUSTOS |
