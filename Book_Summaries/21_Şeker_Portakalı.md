@@ -1,19 +1,19 @@
-# Bir İdam Mahkumunun Son Günü 
-## Victor Hugo
-### 117 Sayfa
-#### 22.09.2020
+# Şeker Portakalı
+## Jose Mauro De Vasconcelos
+### 183 Sayfa
+#### 06.10.2020
 
 <br> 
 
 ***Karakterler ;*** 
-- ***Estefâ Pinagê de Vasconcelos:*** Zeze'nin annesi
-- ***Zeze:***
-- ***Paulo Efendi:*** Zeze'nin babası
-- ***Edmundo Dayı:***
-- ***Totoca:***
+- ***Zeze:*** 5 yaşında , çok yaramaz bir çocuk
 - ***Minguinho:*** Şeker Portakalı Ağacı'nın ismi. Minguinho kendisine Xururuca diye hitap ettiğimde sevinirdi ; ne kadar sevildiğini en çok böyle anlardıda hissederdi.
 - ***Portekizli Valadares:*** Zeze , ona "Portuga" demeye başladı.
-- ***:***
+- ***Estefâ Pinagê de Vasconcelos:*** Zeze'nin annesi
+- ***Paulo Efendi:*** Zeze'nin babası
+- ***Edmundo Dayı:*** Zeze'nin dayısı
+- ***Totoca:*** Zeze'nin kardeşi
+
 
 
 
