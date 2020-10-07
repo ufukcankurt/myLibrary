@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 37. |__* *__ ***[ŞEKER PORTAKALI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/21_%C5%9Eeker_Portakal%C4%B1.md)*** |  JOSE MAURO DE VASCONCELOS | 181 | 4 EYLÜL | 6 EYLÜL |
+|-|
 | 36. |__* *__ ***[FARELER VE İNSANLAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/20_Fareler_ve_%C4%B0nsanlar.md)*** | JOHN STEİNBECK | 111 | 29 EYLÜL | 30 EYLÜL |
 | 35. |__* *__  ***[MALORİE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/19_Malorie.md)*** | JOSH MALERMAN | 332 | 23 EYLÜL | 27 EYLÜL |
 | 34. | ***[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC.md)*** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
