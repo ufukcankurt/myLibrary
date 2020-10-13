@@ -44,7 +44,7 @@ Benimle direk iletişime geçmek için;
 | 20. | KÖRLÜK | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
 | 19. |__* *__ KÜRK MANTOLU MADONNA | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
 | 18. | HAYVAN ÇİFTLİĞİ | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
-| 17. | AKIL OYUNLARI | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
+| 17. | ***[AKIL OYUNLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/03_Ak%C4%B1l_Oyunlar%C4%B1.md)*** | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
 | 16. |__* *__ ***[SİMYACI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/02_Simyac%C4%B1.md)*** | PAULO COELHO | 188 | 6 AĞUSTOS | 5 AĞUSTOS  |
 | 15. | ***[KIRMIZI PAZARTESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/01_K%C4%B1rm%C4%B1z%C4%B1_Pazartesi.md)*** |GABRİEL GARCİA MARQUEZ	 | 107 | 4 AĞUSTOS | 5 AĞUSTOS |
 | - |
