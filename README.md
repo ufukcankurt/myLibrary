@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 39. | ***[SATRANÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/23_Satran%C3%A7.md)*** | STEFAN ZWEİG |76 | 13 EKİM | 13 EKİM |
 | 38. | ***[GEÇ ÖDENEN BORÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/22_Ge%C3%A7_%C3%96denen_Bor%C3%A7.md)*** | STEFAN ZWEİG | 45 | 8 EKİM | 8 EKİM |
 | 37. |__* *__ ***[ŞEKER PORTAKALI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/21_%C5%9Eeker_Portakal%C4%B1.md)*** |  JOSE MAURO DE VASCONCELOS | 181 | 4 EKİM | 6 EKİM |
 |-|
