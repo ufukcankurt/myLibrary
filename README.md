@@ -40,7 +40,7 @@ Benimle direk iletişime geçmek için;
 | 25. | 1984 | GEORGE ORWELL | 350 | 28 AĞUSTOS | 30 AĞUSTOS |
 | 24. |  KARDEŞİMİN HİKAYESİ | ZÜLFÜ LİVANELİ | 324 | 26 AĞUSTOS | 27 AĞUSTOS |
 | 23. | İSTANBUL'UN NAZIM PLANI | SUNAY AKIN | 168 | 23 AĞUSTOS | 25 AĞUSTOS |
-| 22. | SİL BAŞTAN | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
+| 22. | ***[SİL BAŞTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/08_Sil_Ba%C5%9Ftan.md)*** | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
 | 21. |__* *__ BAŞLANGIÇ | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
 | 20. | KÖRLÜK | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
 | 19. |__* *__ KÜRK MANTOLU MADONNA | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
