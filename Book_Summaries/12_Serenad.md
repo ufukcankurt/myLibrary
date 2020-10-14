@@ -19,7 +19,7 @@
 > ***Bu eser gerçekten hiç bir kelime ile tarif edilemeyecek bir başyapıt. Hayatımda okuduğum en mükemmel kitaplardan bir tanesi.***
 
 
-***~ Serenade für Nadia ~***
+***- Serenade für Nadia -***
 
 <br>
 
