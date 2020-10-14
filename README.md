@@ -42,7 +42,7 @@ Benimle direk iletişime geçmek için;
 | 23. | İSTANBUL'UN NAZIM PLANI | SUNAY AKIN | 168 | 23 AĞUSTOS | 25 AĞUSTOS |
 | 22. | ***[SİL BAŞTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/08_Sil_Ba%C5%9Ftan.md)*** | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
 | 21. |__* *__ ***[BAŞLANGIÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/07_Ba%C5%9Flang%C4%B1%C3%A7.md)*** | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
-| 20. | KÖRLÜK | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
+| 20. | ***[KÖRLÜK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/06_K%C3%B6rl%C3%BCk.md)*** | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
 | 19. |__* *__ KÜRK MANTOLU MADONNA | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
 | 18. | HAYVAN ÇİFTLİĞİ | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
 | 17. | ***[AKIL OYUNLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/03_Ak%C4%B1l_Oyunlar%C4%B1.md)*** | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
