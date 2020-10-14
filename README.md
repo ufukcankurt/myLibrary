@@ -34,7 +34,7 @@ Benimle direk iletişime geçmek için;
 | 30. | **[16.50 TRENİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/15_16.50_Treni.md)** | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
 | 29. | ***[SAHTEKAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/14_Sahtekar.md)*** | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
 | 28. |__* *__ ***[GENÇ WERTHER'İN ACILARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/13_Gen%C3%A7_Werther'in_Ac%C4%B1lar%C4%B1.md)*** | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
-| 27. |__* *__ SERENAD | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
+| 27. |__* *__ ***[SERENAD](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/12_Serenad.md)*** | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
 | 26. | ***[ON KÜÇÜK ZENCİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/11_On_K%C3%BC%C3%A7%C3%BCk_Zenci.md)*** | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
 | - |
 | 25. | 1984 | GEORGE ORWELL | 350 | 28 AĞUSTOS | 30 AĞUSTOS |
