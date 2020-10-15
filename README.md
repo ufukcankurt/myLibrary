@@ -10,7 +10,7 @@ Benimle direk iletişime geçmek için;
  ***NOT:*** 
  
  - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için , mavi renkteki kitap isimlerine tıklayabilirsiniz.*
- - "  * *  " bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
+ - ***"  * *  "*** bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
 
 > Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen [***Ziyaret Edin / About Me***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
 
@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 40. | BİR DELİNİN HATIRA DEFTERİ | NİKOLAY GOGOL| 128 | 15 EKİM | - |
 | 39. | ***[SATRANÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/23_Satran%C3%A7.md)*** | STEFAN ZWEİG |76 | 13 EKİM | 13 EKİM |
 | 38. | ***[GEÇ ÖDENEN BORÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/22_Ge%C3%A7_%C3%96denen_Bor%C3%A7.md)*** | STEFAN ZWEİG | 45 | 8 EKİM | 8 EKİM |
 | 37. |__* *__ ***[ŞEKER PORTAKALI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/21_%C5%9Eeker_Portakal%C4%B1.md)*** |  JOSE MAURO DE VASCONCELOS | 181 | 4 EKİM | 6 EKİM |
@@ -43,7 +44,7 @@ Benimle direk iletişime geçmek için;
 | 22. | ***[SİL BAŞTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/08_Sil_Ba%C5%9Ftan.md)*** | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
 | 21. |__* *__ ***[BAŞLANGIÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/07_Ba%C5%9Flang%C4%B1%C3%A7.md)*** | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
 | 20. | ***[KÖRLÜK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/06_K%C3%B6rl%C3%BCk.md)*** | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
-| 19. |__**__ ***[KÜRK MANTOLU MADONNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/05_K%C3%BCrk_Mantolu_Madonna.md)*** | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
+| 19. |__* *__ ***[KÜRK MANTOLU MADONNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/05_K%C3%BCrk_Mantolu_Madonna.md)*** | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
 | 18. | ***[HAYVAN ÇİFTLİĞİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/04_Hayvan_%C3%87iftli%C4%9Fi.md)*** | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
 | 17. | ***[AKIL OYUNLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/03_Ak%C4%B1l_Oyunlar%C4%B1.md)*** | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
 | 16. |__* *__ ***[SİMYACI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/02_Simyac%C4%B1.md)*** | PAULO COELHO | 188 | 6 AĞUSTOS | 5 AĞUSTOS  |
