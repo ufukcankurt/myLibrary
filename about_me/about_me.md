@@ -37,11 +37,11 @@ ____
 
 <br>
 
- İşte bununla birlikte dedim ki , artık bir şeylerin değişmesi gerekiyor. Hemen 4 tane kitap ve bir tane masa lambası siparişi ile yola başladım.. İncelediğinizde [aşağıda](https://github.com/ufukcankurt/myLibrary#2019) göreceğiniz üzere , 2019 yılı benim için yavaş yavaş kitap okuma alışkanlığımı kazanma yılı oldu diyebilirim. Hiç kitap okumayan bir insan için , 2019 da " 22 tane " kitap okumuş olmanın büyük bir nimet olduğunu düşünüyorum..
+ İşte bununla birlikte dedim ki , artık bir şeylerin değişmesi gerekiyor. Hemen 4 tane kitap ve bir tane masa lambası siparişi ile yola başladım.. İncelediğinizde [aşağıda](https://github.com/ufukcankurt/myLibrary#2019) göreceğiniz üzere , 2019 yılı benim için yavaş yavaş kitap okuma alışkanlığımı kazanma yılı oldu diyebilirim. Hiç kitap okumayan bir insan için , 2019 da " 22 tane " kitap okumuş olmanın büyük bir başarı olduğunu düşünüyorum..
 
- 2020 yılına da aslında çokta istediğim gibi başladığım söylenemez çünkü az sayıda kitap okuyordum.. Zaten hemen ardından maalesef Covid-19 pandemi sürecini yaşadık.. Pandemi süreci benim için bu anlamda kâbus gibi geçti diyebilirim.. Üzücü bir şekilde, hiç kitap okumadım..
+ 2020 yılına da aslında çokta istediğim gibi başladığım söylenemez çünkü az sayıda kitap okuyordum.. Zaten hemen ardından maalesef Covid-19 pandemi sürecini yaşadık.. Pandemi süreci benim için bu anlamda kâbus gibi geçti... Üzücü bir şekilde, hiç kitap okumadım..
 
- Ama 2020 Temmuz ayından itibaren hayatım değişti diyebilirim. Yine [aşağıda](https://github.com/ufukcankurt/myLibrary#okudu%C4%9Fum-ki%CC%87taplar) göreceğiniz üzere artık düzenli bir şekilde kitap okuma alışkanlığımı kazandım ve artık her gün kitap okumaktan keyif alıyorum.. 
+ Ama 2020 Temmuz ayından itibaren hayatım değişti diyebilirim. Yine [aşağıda](https://github.com/ufukcankurt/myLibrary#okudu%C4%9Fum-ki%CC%87taplar) göreceğiniz üzere artık düzenli bir şekilde kitap okuma alışkanlığımı kazandım ve her gün kitap okumaktan keyif alıyorum.. 
  
  Ama bir süre sonra fark ettim ki, ister istemez öncesinde okuduğum kitaplarla ilgili şeyleri unutmaya başlıyor ve hatırlayamıyordum.. Bunun üzerine okuduğum kitaplar ile ilgili kısa kısa özetler çıkarmaya ve alıntılar yapmaya başladım. Tabi başlarda sadece benim kendim için yapmış olduğum bu şeyler , benim anladığım sürece çokta özen göstermeden hazırlıyor olduğumdan  pek bir şey farketmiyordu.. Ama artık benim için çok daha önemli bir hale geldi. ***Bu yüzden artık özenli ve düzgün hazırlamaya gayret edeceğim.***
 
