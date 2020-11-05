@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | -  |
 | - |  |  |   |   |   |
 | 41. | ROMEO VE JULIET | WILLIAM SHAKESPEARE | 133  | 21 EKİM  | 23 EKİM  |
 | 40. | ***[BİR DELİNİN HATIRA DEFTERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_Bir_Delinin_Hat%C4%B1ra_Defteri.md)*** | NİKOLAY GOGOL| 128 | 15 EKİM | 17 EKİM |
