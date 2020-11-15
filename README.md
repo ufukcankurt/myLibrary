@@ -21,7 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | -  |
+| - |  |  |   |   |   |
+| 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
 | - |  |  |   |   |   |
 | 41. | ROMEO VE JULIET | WILLIAM SHAKESPEARE | 133  | 21 EKİM  | 23 EKİM  |
 | 40. | ***[BİR DELİNİN HATIRA DEFTERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_Bir_Delinin_Hat%C4%B1ra_Defteri.md)*** | NİKOLAY GOGOL| 128 | 15 EKİM | 17 EKİM |
@@ -50,7 +51,7 @@ Benimle direk iletişime geçmek için;
 | 19. |__* *__ ***[KÜRK MANTOLU MADONNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/05_K%C3%BCrk_Mantolu_Madonna.md)*** | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
 | 18. | ***[HAYVAN ÇİFTLİĞİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/04_Hayvan_%C3%87iftli%C4%9Fi.md)*** | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
 | 17. | ***[AKIL OYUNLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/03_Ak%C4%B1l_Oyunlar%C4%B1.md)*** | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
-| 16. |__* *__ ***[SİMYACI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/02_Simyac%C4%B1.md)*** | PAULO COELHO | 188 | 6 AĞUSTOS | 5 AĞUSTOS  |
+| 16. |__* *__ ***[SİMYACI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/02_Simyac%C4%B1.md)*** | PAULO COELHO | 188 | 6 AĞUSTOS | 7 AĞUSTOS  |
 | 15. | ***[KIRMIZI PAZARTESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/01_K%C4%B1rm%C4%B1z%C4%B1_Pazartesi.md)*** |GABRİEL GARCİA MARQUEZ	 | 107 | 4 AĞUSTOS | 5 AĞUSTOS |
 | - |
 | 14. | ÖTEKİ | FYODOR DOSTOYEVSKİ | 181 | 27 TEMMUZ | 30 TEMMUZ |
