@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 43. | GÖREMEDİĞİMİZ TÜM IŞIKLAR | ANTHONY DOERR | 576  | 12 ARALIK  | -  |
 | - |  |  |   |   |   |
 | 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
 | - |  |  |   |   |   |
