@@ -1,4 +1,4 @@
-# OKUDUĞUM KİTAPLAR
+# Okuduğum Kitaplar
 
 
 
@@ -10,9 +10,10 @@ Benimle direk iletişime geçmek için;
  ***NOT:*** 
  
  - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için , mavi renkteki kitap isimlerine tıklayabilirsiniz.*
- - ***"  * *  "*** bazı kitapların başındaki bu işaret , benim için defalarca okunabilecek bir kitap olduğunu temsil etmektedir.
+ - *Okuduğum kitapları takip etmek isterseniz repoma `star ve watch` atabilirsiniz*
 
-> Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen [***Ziyaret Edin / About Me***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
+
+> Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen ziyaret edin --> [***Kitap Okumadaki Motivasyonum***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
 
 <br>
 
@@ -26,34 +27,34 @@ Benimle direk iletişime geçmek için;
 | 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
 | - |  |  |   |   |   |
 | 41. | ROMEO VE JULIET | WILLIAM SHAKESPEARE | 133  | 21 EKİM  | 23 EKİM  |
-| 40. | ***[BİR DELİNİN HATIRA DEFTERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_Bir_Delinin_Hat%C4%B1ra_Defteri.md)*** | NİKOLAY GOGOL| 128 | 15 EKİM | 17 EKİM |
-| 39. | ***[SATRANÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/23_Satran%C3%A7.md)*** | STEFAN ZWEİG |76 | 13 EKİM | 13 EKİM |
-| 38. | ***[GEÇ ÖDENEN BORÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/22_Ge%C3%A7_%C3%96denen_Bor%C3%A7.md)*** | STEFAN ZWEİG | 45 | 8 EKİM | 8 EKİM |
-| 37. |__* *__ ***[ŞEKER PORTAKALI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/21_%C5%9Eeker_Portakal%C4%B1.md)*** |  JOSE MAURO DE VASCONCELOS | 181 | 4 EKİM | 6 EKİM |
+| 40. | **[BİR DELİNİN HATIRA DEFTERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_Bir_Delinin_Hat%C4%B1ra_Defteri_Nikolay_Gogol.md)** | NİKOLAY GOGOL| 128 | 15 EKİM | 17 EKİM |
+| 39. | **[SATRANÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/23_Satran%C3%A7_Stefan_Zweig.md)** | STEFAN ZWEİG |76 | 13 EKİM | 13 EKİM |
+| 38. | **[GEÇ ÖDENEN BORÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/22_Ge%C3%A7_%C3%96denen_Bor%C3%A7_Stefan_Zweig.md)** | STEFAN ZWEİG | 45 | 8 EKİM | 8 EKİM |
+| 37. | **[ŞEKER PORTAKALI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/21_%C5%9Eeker_Portakal%C4%B1_Jose_Mauro_De_Vasconcelos.md)** |  JOSE MAURO DE VASCONCELOS | 181 | 4 EKİM | 6 EKİM |
 |-|
-| 36. |__* *__ ***[FARELER VE İNSANLAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/20_Fareler_ve_%C4%B0nsanlar.md)*** | JOHN STEİNBECK | 111 | 29 EYLÜL | 30 EYLÜL |
-| 35. |__* *__  ***[MALORİE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/19_Malorie.md)*** | JOSH MALERMAN | 332 | 23 EYLÜL | 27 EYLÜL |
-| 34. | ***[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC.md)*** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
-| 33. | ***[SONUNCU KURBAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/17_Sonuncu_Kurban.md)*** | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
+| 36. | **[FARELER VE İNSANLAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/20_Fareler_ve_%C4%B0nsanlar_John_Steinbeck.md)** | JOHN STEİNBECK | 111 | 29 EYLÜL | 30 EYLÜL |
+| 35. |  **[MALORİE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/19_Malorie_Josh_Malerman.md)** | JOSH MALERMAN | 332 | 23 EYLÜL | 27 EYLÜL |
+| 34. | **[BİR İDAM MAHKUMUNUN SON GÜNÜ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/18_Bir_%C4%B0dam_Mahkumunun_Son_G%C3%BCn%C3%BC_Victor_Hugo.md)** | VİCTOR HUGO | 117 | 22 EYLÜL  | 22 EYLÜL  |
+| 33. | **[SONUNCU KURBAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/17_Sonuncu_Kurban_Agatha_Christie.md)** | AGATHA CHRISTIE | 222 | 20 EYLÜL  | 22 EYLÜL  |
 | 32. | KENDİNE AİT BİR ODA | VIRGINIA WOLF | 160 | 18 EYLÜL  | 19 EYLÜL  |
-| 31. |__* *__ ***[ALGERNON'A ÇİÇEKLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/16_Algernona_%C3%87i%C3%A7ekler.md)*** | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
-| 30. | **[16.50 TRENİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/15_16.50_Treni.md)** | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
-| 29. | ***[SAHTEKAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/14_Sahtekar.md)*** | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
-| 28. |__* *__ ***[GENÇ WERTHER'İN ACILARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/13_Gen%C3%A7_Werther'in_Ac%C4%B1lar%C4%B1.md)*** | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
-| 27. |__* *__ ***[SERENAD](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/12_Serenad.md)*** | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
-| 26. | ***[ON KÜÇÜK ZENCİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/11_On_K%C3%BC%C3%A7%C3%BCk_Zenci.md)*** | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
+| 31. | **[ALGERNON'A ÇİÇEKLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/16_Algernona_%C3%87i%C3%A7ekler_Daniel_Keyes.md)** | DANIEL KEYES | 325 | 16 EYLÜL  | 17 EYLÜL   |
+| 30. | **[16.50 TRENİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/15_16.50_Treni_Agatha_Christie.md)** | AGATHA CHRİSTİE | 288 | 13 EYLÜL  | 14 EYLÜL  |
+| 29. | **[SAHTEKAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/14_Sahtekar_Mary_Higgings_Clark.md)** | MARY HIGGINGS CLARK | 394 | 9 EYLÜL  | 12 EYLÜL  |
+| 28. | **[GENÇ WERTHER'İN ACILARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/13_Gen%C3%A7_Werther'in_Ac%C4%B1lar%C4%B1_Goethe.md)** | GOETHE | 160 | 7 EYLÜL  | 8 EYLÜL  |
+| 27. | **[SERENAD](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/12_Serenad_Z%C3%BClf%C3%BC_Livaneli.md)** | ZÜLFÜ LİVANELİ | 481 | 4 EYLÜL  | 6 EYLÜL  |
+| 26. | **[ON KÜÇÜK ZENCİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/11_On_K%C3%BC%C3%A7%C3%BCk_Zenci_Agatha_Christie.md)** | AGATHA CHRİSTİE | 223 | 1 EYLÜL  | 2 EYLÜL  |
 | - |
 | 25. | 1984 | GEORGE ORWELL | 350 | 28 AĞUSTOS | 30 AĞUSTOS |
-| 24. |  ***[KARDEŞİMİN HİKAYESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/09_Karde%C5%9Fimin_Hikayesi.md)*** | ZÜLFÜ LİVANELİ | 324 | 26 AĞUSTOS | 27 AĞUSTOS |
+| 24. |  **[KARDEŞİMİN HİKAYESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/09_Karde%C5%9Fimin_Hikayesi_Z%C3%BClf%C3%BC_Livaneli.md)** | ZÜLFÜ LİVANELİ | 324 | 26 AĞUSTOS | 27 AĞUSTOS |
 | 23. | İSTANBUL'UN NAZIM PLANI | SUNAY AKIN | 168 | 23 AĞUSTOS | 25 AĞUSTOS |
-| 22. | ***[SİL BAŞTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/08_Sil_Ba%C5%9Ftan.md)*** | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
-| 21. |__* *__ ***[BAŞLANGIÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/07_Ba%C5%9Flang%C4%B1%C3%A7.md)*** | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
-| 20. | ***[KÖRLÜK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/06_K%C3%B6rl%C3%BCk.md)*** | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
-| 19. |__* *__ ***[KÜRK MANTOLU MADONNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/05_K%C3%BCrk_Mantolu_Madonna.md)*** | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
-| 18. | ***[HAYVAN ÇİFTLİĞİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/04_Hayvan_%C3%87iftli%C4%9Fi.md)*** | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
-| 17. | ***[AKIL OYUNLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/03_Ak%C4%B1l_Oyunlar%C4%B1.md)*** | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
-| 16. |__* *__ ***[SİMYACI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/02_Simyac%C4%B1.md)*** | PAULO COELHO | 188 | 6 AĞUSTOS | 7 AĞUSTOS  |
-| 15. | ***[KIRMIZI PAZARTESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/01_K%C4%B1rm%C4%B1z%C4%B1_Pazartesi.md)*** |GABRİEL GARCİA MARQUEZ	 | 107 | 4 AĞUSTOS | 5 AĞUSTOS |
+| 22. | **[SİL BAŞTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/08_Sil_Ba%C5%9Ftan_Ken_Grimwood.md)** | KEN GRIMWOOD | 361 | 20 AĞUSTOS | 21 AĞUSTOS |
+| 21. | **[BAŞLANGIÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/07_Ba%C5%9Flang%C4%B1%C3%A7_Dan_Brown.md)** | DAN BROWN | 535 |  17 AĞUSTOS | 19 AĞUSTOS |
+| 20. | **[KÖRLÜK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/06_K%C3%B6rl%C3%BCk_Jose_Saramago.md)** | JOSE SARAMAGO | 331 | 15 AĞUSTOS | 16 AĞUSTOS |
+| 19. | **[KÜRK MANTOLU MADONNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/05_K%C3%BCrk_Mantolu_Madonna_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 160 | 13 AĞUSTOS | 14 AĞUSTOS |
+| 18. | **[HAYVAN ÇİFTLİĞİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/04_Hayvan_%C3%87iftli%C4%9Fi_George_Orwell.md)** | GEORGE ORWELL | 151 | 11 AĞUSTOS | 12 AĞUSTOS |
+| 17. | **[AKIL OYUNLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/03_Ak%C4%B1l_Oyunlar%C4%B1_Daniel_Palmer.md)** | DANIEL PALMER | 452 | 9 AĞUSTOS | 10 AĞUSTOS |
+| 16. | **[SİMYACI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/02_Simyac%C4%B1_Paulo_Coelho.md)** | PAULO COELHO | 188 | 6 AĞUSTOS | 7 AĞUSTOS  |
+| 15. | **[KIRMIZI PAZARTESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/01_K%C4%B1rm%C4%B1z%C4%B1_Pazartesi_Gabriel_Garcia_Marquez.md)** |GABRİEL GARCİA MARQUEZ	 | 107 | 4 AĞUSTOS | 5 AĞUSTOS |
 | - |
 | 14. | ÖTEKİ | FYODOR DOSTOYEVSKİ | 181 | 27 TEMMUZ | 30 TEMMUZ |
 | 13. | KUMARBAZ | FYODOR DOSTOYEVSKİ | 177 | 25 TEMMUZ | 26 TEMMUZ |
@@ -66,7 +67,7 @@ Benimle direk iletişime geçmek için;
 | 7. | BEYAZ GECELER | FYODOR DOSTOYEVSKİ 	 | 202 | 13 HAZİRAN | 22 HAZİRAN |
 | - |
 | 6. | YERALTINDAN NOTLAR | FYODOR DOSTOYEVSKİ 	 | 151 | 22 MART | 24 MART |
-| 5. | __* *__ SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
+| 5. |  SENDEN ÖNCE BEN | JOJO MOYES | 479 | 3 MART | 21 MART |
 | - |
 | 4. | SOKAK KEDİSİ BOB | JAMES BOWEN | 226 | 28 ŞUBAT | 29 ŞUBAT |
 | 3. | BİR ÖMÜR NASIL YAŞANIR | İLBER ORTAYLI | 262 | 18 ŞUBAT | 27 ŞUBAT |
@@ -81,8 +82,8 @@ Benimle direk iletişime geçmek için;
 | 22. | BEYAZ ZAMBAKLAR ÜLKESİNDE | GRIGORIY PETROV  | 242 | 26 KASIM | 12 ARALIK |
 | - |
 | 21. | YARATICILIK , İÇİNDEKİ GÜCLERİ <br> SERBEST BIRAK | OSHO | 194 | 19 KASIM | 25 KASIM |
-| 20. |__* *__ YENİ BİR YAŞAMIN ANAHTARI  | OSHO | 184 | 16 KASIM | 18 KASIM |
-| 19. | __* *__ HUZUR ARAYIŞI  | OSHO | 144 | 14 KASIM | 15 KASIM |
+| 20. | YENİ BİR YAŞAMIN ANAHTARI  | OSHO | 184 | 16 KASIM | 18 KASIM |
+| 19. |  HUZUR ARAYIŞI  | OSHO | 144 | 14 KASIM | 15 KASIM |
 | 18. | VE KIZIN ADI GECE | ERTÜRK AKŞAM | 272 | 8 KASIM | 13 KASIM |
 | - |
 | 17. | WALDEN | HENRY DAVID THOREAU  | 293 | 6 EKİM | 18 EKİM |
