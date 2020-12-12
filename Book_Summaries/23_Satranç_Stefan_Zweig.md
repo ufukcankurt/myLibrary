@@ -1,13 +1,21 @@
+
+<table><tr>
+<td align="left"> 
+  
 # Satranç - Stefan Zweig
 ## 76 Sayfa
 ### 13.10.2020
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/23_satranc.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
 
-<br> 
-
-<p align="center">
-  <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/23_satranc.jpg" width="250">
-</p>
-
+</tr></table>
 
 ***Karakterler ;*** 
 - ***Mirko Czentovic :*** Dünya satranç şampiyonu

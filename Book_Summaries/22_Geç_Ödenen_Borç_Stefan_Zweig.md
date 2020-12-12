@@ -1,10 +1,22 @@
+
+
+<table><tr>
+<td align="left"> 
+  
 # Geç Ödenen Borç - Stefan Zweig  
 ## 45 Sayfa
 ### 08.10.2020
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/22_gec_odenen_borc.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
 
-<br>
-
-
+</tr></table>
 
 
 ***Karakterler ;*** 

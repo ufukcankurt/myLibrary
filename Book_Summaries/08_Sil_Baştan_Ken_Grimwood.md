@@ -1,8 +1,23 @@
+
+<table><tr>
+<td align="left"> 
+  
 # Sil Baştan - Ken Grimwood
 ## 361 Sayfa
 ### 21.08.2020
 
-<br>
+
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/08_sil_bastan.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
+
+</tr></table>
 
 
 

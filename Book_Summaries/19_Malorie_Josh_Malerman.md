@@ -1,8 +1,22 @@
+
+
+<table><tr>
+<td align="left"> 
+  
 # Malorie - Josh Malerman
 ## 332 Sayfa
 ### 27.09.2020
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/19_malorie.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
 
-<br> 
+</tr></table>
 
 
 ***Karakterler ;***

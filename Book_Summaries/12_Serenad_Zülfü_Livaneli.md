@@ -1,8 +1,22 @@
+
+<table><tr>
+<td align="left"> 
+  
 # Serenad - Zülfü Livaneli
 ## 481 Sayfa
 ### 06.09.2020
 
-<br>
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/12_serenad.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
+
+</tr></table>
 
 ***Karakterler ;*** 
 - ***Maya Duran :*** Kahramanımız , üniversite de rektörün en yakınında görevli

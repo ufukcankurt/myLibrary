@@ -1,8 +1,25 @@
+
+<table><tr>
+<td align="left"> 
+  
 # Kürk Mantolu Madonna - Sabahattin Ali
 ## 160 Sayfa
 ### 14.08.2020
 
-<br>
+
+
+
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/05_kurk_mantolu_madonna.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
+
+</tr></table>
 
 ***Karakterler ;*** 
 - ***Hamdi :*** Mektepten bir arkadaşı 

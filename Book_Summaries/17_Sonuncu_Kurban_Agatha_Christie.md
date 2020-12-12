@@ -1,9 +1,24 @@
+
+
+
+<table><tr>
+<td align="left"> 
+  
 # Sonuncu Kurban - Agatha Christie
 ## 222 Sayfa
 ### 21.09.2020
 
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/17_sonuncu_kurban.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
 
-<br>
+</tr></table>
 
 ***Karakterler ;***
 - **Hercule Poirot :** Dedektif.. Daha çok kahramanımız da diyebiliriz.

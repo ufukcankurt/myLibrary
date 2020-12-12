@@ -1,8 +1,23 @@
+
+
+<table><tr>
+<td align="left"> 
+
 # Simyacı - Paulo Coelho
 ## 188 Sayfa
 ### 08.08.2020
 
-<br>
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/02_simyaci.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
+
+</tr></table>
 
 ***Karakterler ;*** 
 

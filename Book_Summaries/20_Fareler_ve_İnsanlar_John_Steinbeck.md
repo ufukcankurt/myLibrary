@@ -1,9 +1,22 @@
+
+
+<table><tr>
+<td align="left"> 
+  
 # Fareler ve İnsanlar - John Steinbeck 
 ## 111 Sayfa
 ### 30.09.2020
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/20_fareler_ve_insanlar.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
 
-
-<br>
+</tr></table>
 
 ***Karakterler ;***
 - ***George Milton :*** Lennie'nin dostu. Zeki bir adam

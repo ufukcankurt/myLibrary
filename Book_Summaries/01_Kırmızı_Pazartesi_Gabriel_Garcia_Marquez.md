@@ -1,8 +1,23 @@
+
+
+<table><tr>
+<td align="left"> 
+
 # Kırmızı Pazartesi - Gabriel Garcia Marquez
 ## 107 Sayfa
 ### 07.08.2020
 
-<br>
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/01_kirmizi_pazartesi.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
+
+</tr></table>
 
 ***Karakterler ;***
 - ***Santiago Nasar :*** Ana karakterimiz

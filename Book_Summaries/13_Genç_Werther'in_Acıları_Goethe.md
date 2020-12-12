@@ -1,8 +1,23 @@
+
+
+<table><tr>
+<td align="left"> 
+  
 # Genç Werther'in Acıları - Goethe
 ## 160 Sayfa
 ### 08.09.2020
 
-<br>
+  
+</td>
+<td> 
+  <p align="center" style="padding: 10px">
+    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/13_genc_wertherin_acıları.jpg" width="250">
+    <br>
+    
+  </p> 
+</td>
+
+</tr></table>
 
 ***Karakterler ;***
 - ***Werther:*** Kahramanımız ,  genç bir hukuk stajyeri
