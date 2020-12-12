@@ -1,7 +1,6 @@
-# Kırmızı Pazartesi
-## Gabriel Garcia Marquez
-### 107 Sayfa
-#### 07.08.2020
+# Kırmızı Pazartesi - Gabriel Garcia Marquez
+## 107 Sayfa
+### 07.08.2020
 
 <br>
 

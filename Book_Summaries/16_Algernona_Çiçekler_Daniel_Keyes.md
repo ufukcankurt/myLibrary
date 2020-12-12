@@ -1,7 +1,6 @@
-# Algernon'a Çiçekler
-## Daniel Keyes
-### 325 Sayfa
-#### 17.09.2020
+# Algernon'a Çiçekler - Daniel Keyes
+## 325 Sayfa
+### 17.09.2020
 
 <br>
 

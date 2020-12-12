@@ -1,7 +1,6 @@
-# Serenad
-## Zülfü Livaneli
-### 481 Sayfa
-#### 06.09.2020
+# Serenad - Zülfü Livaneli
+## 481 Sayfa
+### 06.09.2020
 
 <br>
 

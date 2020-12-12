@@ -1,7 +1,6 @@
-# Satranç
-## Stefan Zweig
-### 76 Sayfa
-#### 13.10.2020
+# Satranç - Stefan Zweig
+## 76 Sayfa
+### 13.10.2020
 
 <br> 
 

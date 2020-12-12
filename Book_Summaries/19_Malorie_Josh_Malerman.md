@@ -1,7 +1,6 @@
-# Malorie
-## Josh Malerman
-### 332 Sayfa
-#### 27.09.2020
+# Malorie - Josh Malerman
+## 332 Sayfa
+### 27.09.2020
 
 <br> 
 

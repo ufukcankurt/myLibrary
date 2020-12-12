@@ -1,7 +1,6 @@
-# Kardeşimin Hikayesi
-## Zülfü Livaneli
-### 324 Sayfa
-#### 27.08.2020
+# Kardeşimin Hikayesi - Zülfü Livaneli
+## 324 Sayfa
+### 27.08.2020
 
 <br>
 

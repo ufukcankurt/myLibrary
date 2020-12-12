@@ -1,7 +1,6 @@
-# Hayvan Çiftliği
-## George Orwell
-### 151 Sayfa
-#### 12.08.2020
+# Hayvan Çiftliği - George Orwell
+## 151 Sayfa
+### 12.08.2020
 
 <br>
 

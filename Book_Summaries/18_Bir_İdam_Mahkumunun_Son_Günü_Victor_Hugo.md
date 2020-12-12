@@ -1,7 +1,6 @@
-# Bir İdam Mahkumunun Son Günü 
-## Victor Hugo
-### 117 Sayfa
-#### 22.09.2020
+# Bir İdam Mahkumunun Son Günü - Victor Hugo 
+## 117 Sayfa
+### 22.09.2020
 
 <br> 
 

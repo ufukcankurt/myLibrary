@@ -1,7 +1,6 @@
-# Bir Delinin Hatıra Defteri
-## Nikolay Gogol
-### 128 Sayfa
-#### 16.08.2020
+# Bir Delinin Hatıra Defteri - Nikolay Gogol
+## 128 Sayfa
+### 16.08.2020
 
 <br>
 

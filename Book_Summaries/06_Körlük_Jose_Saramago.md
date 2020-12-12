@@ -1,7 +1,6 @@
-# Körlük
-## Jose Saramago
-### 331 Sayfa
-#### 16.08.2020
+# Körlük - Jose Saramago
+## 331 Sayfa
+### 16.08.2020
 
 <br>
 

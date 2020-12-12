@@ -1,7 +1,6 @@
-# Geç Ödenen Borç
-## Stefan Zweig 
-### 45 Sayfa
-#### 08.10.2020
+# Geç Ödenen Borç - Stefan Zweig  
+## 45 Sayfa
+### 08.10.2020
 
 <br>
 

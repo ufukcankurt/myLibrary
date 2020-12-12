@@ -1,7 +1,6 @@
-# Akıl Oyunları
-## Daniel Palmer
-### 452 Sayfa
-#### 10.08.2020
+# Akıl Oyunları -  Daniel Palmer
+## 452 Sayfa
+### 10.08.2020
 
 <br>
 

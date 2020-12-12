@@ -1,7 +1,6 @@
-# Başlangıç
-## Dan Brown 
-### 535 Sayfa
-#### 19.08.2020
+# Başlangıç - Dan Brown
+## 535 Sayfa
+### 19.08.2020
 
 <br>
 

@@ -1,7 +1,6 @@
-# Kürk Mantolu Madonna
-## Sabahattin Ali
-### 160 Sayfa
-#### 14.08.2020
+# Kürk Mantolu Madonna - Sabahattin Ali
+## 160 Sayfa
+### 14.08.2020
 
 <br>
 

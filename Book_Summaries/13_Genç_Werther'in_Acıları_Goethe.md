@@ -1,7 +1,6 @@
-# Genç Werther'in Acıları
-## Goethe
-### 160 Sayfa
-#### 08.09.2020
+# Genç Werther'in Acıları - Goethe
+## 160 Sayfa
+### 08.09.2020
 
 <br>
 

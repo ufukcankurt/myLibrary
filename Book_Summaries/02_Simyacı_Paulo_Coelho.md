@@ -1,7 +1,6 @@
-# Simyacı
-## Paulo Coelho
-### 188 Sayfa
-#### 08.08.2020
+# Simyacı - Paulo Coelho
+## 188 Sayfa
+### 08.08.2020
 
 <br>
 

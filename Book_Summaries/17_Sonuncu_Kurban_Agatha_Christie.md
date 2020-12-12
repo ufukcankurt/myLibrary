@@ -1,7 +1,6 @@
-# Sonuncu Kurban 
-## Agatha Christie
-### 222 Sayfa
-#### 21.09.2020
+# Sonuncu Kurban - Agatha Christie
+## 222 Sayfa
+### 21.09.2020
 
 
 <br>

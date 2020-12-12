@@ -1,7 +1,6 @@
-# Şeker Portakalı
-## Jose Mauro De Vasconcelos
-### 183 Sayfa
-#### 06.10.2020
+# Şeker Portakalı - Jose Mauro De Vasconcelos
+## 183 Sayfa
+### 06.10.2020
 
 <br> 
 

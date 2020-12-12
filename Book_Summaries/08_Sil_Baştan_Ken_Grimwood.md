@@ -1,7 +1,6 @@
-# Sil Baştan
-## Ken Grimwood
-### 361 Sayfa
-#### 21.08.2020
+# Sil Baştan - Ken Grimwood
+## 361 Sayfa
+### 21.08.2020
 
 <br>
 

@@ -1,7 +1,6 @@
-# Fareler ve İnsanlar
-## John Steinbeck
-### 111 Sayfa
-#### 30.09.2020
+# Fareler ve İnsanlar - John Steinbeck 
+## 111 Sayfa
+### 30.09.2020
 
 
 <br>

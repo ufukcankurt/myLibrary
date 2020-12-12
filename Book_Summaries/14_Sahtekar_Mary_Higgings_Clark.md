@@ -1,7 +1,6 @@
-# Sahtekar
-## Mary Higgings Clark
-### 394 Sayfa
-#### 12.09.2020
+# Sahtekar - Mary Higgings Clark
+## 394 Sayfa
+### 12.09.2020
 
 <br>
 

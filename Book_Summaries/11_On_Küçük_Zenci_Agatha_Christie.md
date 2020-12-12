@@ -1,7 +1,6 @@
-# On Küçük Zenci
-## Agatha Christie
-### 223 Sayfa
-#### 02.09.2020
+# On Küçük Zenci - Agatha Christie
+## 223 Sayfa
+### 02.09.2020
 
 <br>
 
