@@ -2,6 +2,10 @@
 ## 128 Sayfa
 ### 16.08.2020
 
+<p align="center">
+  <img alt="Bir-Delinin-Hatıra-Defteri" src="../Images/24_bir_delinin_hatira_defteri.jpg" width="300">
+</p>
+
 <br>
 
 ***Karakterler ;*** 
