@@ -4,6 +4,11 @@
 
 <br> 
 
+<p align="center">
+  <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/23_satranc.jpg" width="250">
+</p>
+
+
 ***Karakterler ;*** 
 - ***Mirko Czentovic :*** Dünya satranç şampiyonu
 - ***McConnor :*** İskoçyalı bir mühendis.
