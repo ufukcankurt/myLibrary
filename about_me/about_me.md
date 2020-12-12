@@ -61,11 +61,11 @@ ____
 
 ___ 
 
-<br> <br>
+<br> 
  
 > *Her gün bir adım ileri git. Boş işlerle , boş düşüncelerle , boş insanlarla uğraşma. Onların yerine kitap oku , kendini geliştir , yeni bir şeyler öğren. Kendini öyle güzel donat ki yürüyen bir kütüphane ol.*
 
-> *İllaki her gün , yada her gece boşa zaman harcıyoruz , televizyon izlemek veya ona benzer şeyler.. Peki onun yerine ; elimize bir tane kitap alsak , onu yediye bölsek ve her gece bir bölüm okusak. Haftada bir , yılda elli iki kitap demektir. Değişim böyle başlar !*
+> *İllaki her gün , ya da her gece boşa zaman harcıyoruz , televizyon izlemek veya ona benzer şeyler.. Peki onun yerine ; elimize bir tane kitap alsak , onu yediye bölsek ve her gece bir bölüm okusak. Haftada bir , yılda elli iki kitap demektir. Değişim böyle başlar !*
 
 > *Her gün oku. Her şeyi oku. Ağaç olmak nasıldır? Van Gogh olmak nasıldır? İkinci Dünya Savaşı'na katılmış olmak nasıldır? Öğren. Kendinle sosyalleş. Yoksa unutursun nasıl biri olduğunu.*
 
