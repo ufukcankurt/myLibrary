@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| - |  |  |   |   |   |
+| 44. | ÜÇ YANLIŞ ÜÇ CESET  | AGATHA CHRİSTİE | 189  | 17 ARALIK  | -  |
 | 43. | **[GÖREMEDİĞİMİZ TÜM IŞIKLAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/26_G%C3%B6remedi%C4%9Fimiz_T%C3%BCm_I%C5%9F%C4%B1klar_Anthony_Doerr.md)** | ANTHONY DOERR | 576  | 12 ARALIK  | 15 ARALIK  |
 | - |  |  |   |   |   |
 | 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
