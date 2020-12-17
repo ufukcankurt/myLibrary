@@ -13,7 +13,7 @@
 </td>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/03_akil_oyunlari.jpg" width="250">
+    <img alt="Akıl-Oyunları" src="../images/03_akil_oyunlari.jpg" width="250">
     <br>
     
   </p> 

@@ -10,7 +10,7 @@
 </td>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/21_seker_portakali.jpg" width="250">
+    <img alt="Şeker-Portakalı" src="../images/21_seker_portakali.jpg" width="250">
     <br>
     
   </p> 

@@ -11,7 +11,7 @@
 </td>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/01_kirmizi_pazartesi.jpg" width="250">
+    <img alt="Kırmızı-Pazartesi" src="../images/01_kirmizi_pazartesi.jpg" width="250">
     <br>
     
   </p> 

@@ -12,7 +12,7 @@
 </td>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/07_baslangic.jpg" width="250">
+    <img alt="Başlangıç" src="../images/07_baslangic.jpg" width="250">
     <br>
     
   </p> 

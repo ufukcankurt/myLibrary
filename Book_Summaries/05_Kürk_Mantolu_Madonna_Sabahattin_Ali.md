@@ -13,7 +13,7 @@
 </td>
 <td> 
   <p align="center" style="padding: 10px">
-    <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/05_kurk_mantolu_madonna.jpg" width="250">
+    <img alt="Kürk-Mantolu-Madonna" src="../images/05_kurk_mantolu_madonna.jpg" width="250">
     <br>
     
   </p> 
