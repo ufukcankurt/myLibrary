@@ -1,22 +1,17 @@
 
 
-<table><tr>
-<td align="left"> 
+
   
 # Geç Ödenen Borç - Stefan Zweig  
 ## 45 Sayfa
 ### 08.10.2020
   
-</td>
-<td> 
+<br>
+
   <p align="center" style="padding: 10px">
     <img alt="Geç-Ödenen-Borç" src="../images/22_gec_odenen_borc.jpg" width="250">
     <br>
     
-  </p> 
-</td>
-
-</tr></table>
 
 
 ***Karakterler ;*** 

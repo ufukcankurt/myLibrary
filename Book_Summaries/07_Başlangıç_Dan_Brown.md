@@ -1,24 +1,18 @@
 
 
-<table><tr>
-<td align="left"> 
   
 # Başlangıç - Dan Brown
 ## 535 Sayfa
 ### 19.08.2020
 
-
+<br>
   
-</td>
-<td> 
+
   <p align="center" style="padding: 10px">
     <img alt="Başlangıç" src="../images/07_baslangic.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Edmond Kirsch :*** Milyarder bir bilgisayar uzmanı

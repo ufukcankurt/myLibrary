@@ -1,23 +1,17 @@
 
 
-<table><tr>
-<td align="left"> 
 
 # Simyacı - Paulo Coelho
 ## 188 Sayfa
 ### 08.08.2020
 
-  
-</td>
-<td> 
+  <br>
+
   <p align="center" style="padding: 10px">
     <img alt="Simyacı" src="../images/02_simyaci.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 

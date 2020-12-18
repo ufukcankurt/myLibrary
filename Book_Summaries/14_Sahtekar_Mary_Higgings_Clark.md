@@ -1,22 +1,16 @@
 
-<table><tr>
-<td align="left"> 
   
 # Sahtekar - Mary Higgings Clark
 ## 394 Sayfa
 ### 12.09.2020
 
-  
-</td>
-<td> 
+  <br>
+
   <p align="center" style="padding: 10px">
     <img alt="Sahtekar" src="../images/14_sahtekar.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Kate Connely :*** Douglas'ın kızı

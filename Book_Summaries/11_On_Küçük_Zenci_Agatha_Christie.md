@@ -1,24 +1,19 @@
 
 
 
-<table><tr>
-<td align="left"> 
+
   
 # On Küçük Zenci - Agatha Christie
 ## 223 Sayfa
 ### 02.09.2020
 
-  
-</td>
-<td> 
+  <br>
+
   <p align="center" style="padding: 10px">
     <img alt="On-Küçük-Zenci" src="../images/11_on_kucuk_zenci.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;***
 - ***General Mac Arthur :***

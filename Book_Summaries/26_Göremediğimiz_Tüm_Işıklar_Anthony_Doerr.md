@@ -1,22 +1,20 @@
 
 
-<table><tr>
-<td align="left"> 
+
   
 # Göremediğimiz Tüm Işıklar - Anthony Doerr
 ## 576 Sayfa
 ### 15.12.2020
-  
-</td>
-<td> 
+
+<br>
+
   <p align="center" style="padding: 10px">
     <img alt="Göremediğimiz-Tüm-Işıklar" src="../images/26_goremedigimiz_tum_ısıklar.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
+
+
 
 ***Karakterler ;*** 
 - ***Marie-Laure LeBlanc :*** 6 yaşında kör olan küçük kız

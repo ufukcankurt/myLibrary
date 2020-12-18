@@ -4,16 +4,13 @@
 ## 92 Sayfa
 ### 18.12.2020
   
-</td>
-<td> 
+<br>
+
   <p align="center" style="padding: 10px">
     <img alt="İnsan-Neyle-Yaşar" src="../images/28_insan_neyle_yasar.JPG" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 
 <br>

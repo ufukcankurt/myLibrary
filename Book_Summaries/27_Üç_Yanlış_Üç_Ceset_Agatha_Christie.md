@@ -1,21 +1,17 @@
 
-<table><tr>
-<td align="left"> 
+
   
 # Üç Yanlış Üç Ceset - Agatha Christie
 ## 189 Sayfa
 ### 17.12.2020
   
-</td>
-<td> 
+  <br>
+
   <p align="center" style="padding: 10px">
     <img alt="Üç-Yanlış-Üç-Ceset" src="../images/27_uc_yanlis_uc_ceset.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 
 <br>

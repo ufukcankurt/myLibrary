@@ -1,26 +1,17 @@
 
 
-<table><tr>
-<td align="left"> 
-  
 # Hayvan Çiftliği - George Orwell
 ## 151 Sayfa
 ### 12.08.2020
 
 
+<br>
 
-
-  
-</td>
-<td> 
   <p align="center" style="padding: 10px">
     <img alt="Hayvan-Çiftliği" src="../images/04_hayvan_ciftligi.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Bay Jhones :*** Beylik Çiftliğin sahibi

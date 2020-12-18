@@ -1,23 +1,15 @@
 
-
-<table><tr>
-<td align="left"> 
   
 # Kardeşimin Hikayesi - Zülfü Livaneli
 ## 324 Sayfa
 ### 27.08.2020
 
-  
-</td>
-<td> 
+<br>
+ 
   <p align="center" style="padding: 10px">
     <img alt="Kardeşimin-Hikayesi" src="../images/09_kardesimin_hikayesi.jpg" width="250">
     <br>
-    
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Ahmet Arslan :*** Kahramanımız

@@ -1,22 +1,15 @@
 
-<table><tr>
-<td align="left"> 
-  
 # Algernon'a Çiçekler - Daniel Keyes
 ## 325 Sayfa
 ### 17.09.2020
 
-  
-</td>
-<td> 
+<br>
+
   <p align="center" style="padding: 10px">
     <img alt="Algernona-Çiçekler" src="../images/16_algernona_cicekler.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;***
 - ***Charlie Gordon :*** Başkarakterimiz.

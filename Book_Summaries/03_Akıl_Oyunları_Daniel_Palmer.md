@@ -1,25 +1,19 @@
 
-<table><tr>
-<td align="left"> 
+
   
 # Akıl Oyunları -  Daniel Palmer
 ## 452 Sayfa
 ### 10.08.2020
 
 
+<br>
 
 
-  
-</td>
-<td> 
   <p align="center" style="padding: 10px">
     <img alt="Akıl-Oyunları" src="../images/03_akil_oyunlari.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Charlie Giles:*** Ana karakterimiz , Solucent Şirketinde yönetici pozisyonunda bir yazılım mühendisi.. " invision " Charlie  için çok önemli ve yaratıcısı olduğu bir buluş olan teknolojik cihaz , arabaya entegre edilen bir cihaz.

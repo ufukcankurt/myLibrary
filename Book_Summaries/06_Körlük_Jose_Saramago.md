@@ -1,25 +1,18 @@
 
 
-<table><tr>
-<td align="left"> 
   
 # Körlük - Jose Saramago
 ## 331 Sayfa
 ### 16.08.2020
 
+<br>
 
 
-  
-</td>
-<td> 
   <p align="center" style="padding: 10px">
     <img alt="Körlük" src="../images/06_korluk.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***İlk kör olan adam :***

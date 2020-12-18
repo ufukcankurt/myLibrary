@@ -1,22 +1,17 @@
 
 
-<table><tr>
-<td align="left"> 
+
   
 # Bir Delinin Hatıra Defteri - Nikolay Gogol
 ## 128 Sayfa
 ### 16.08.2020
   
-</td>
-<td> 
+<br>
+
   <p align="center" style="padding: 10px">
     <img alt="Bir-Delinin-Hatıra-Defteri" src="../images/24_bir_delinin_hatira_defteri.jpg" width="250">
     <br>
     
-  </p> 
-</td>
-
-</tr></table>
 
 
 

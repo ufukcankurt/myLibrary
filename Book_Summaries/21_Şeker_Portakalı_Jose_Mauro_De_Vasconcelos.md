@@ -1,22 +1,18 @@
 
 
-<table><tr>
-<td align="left"> 
+ 
   
 # Şeker Portakalı - Jose Mauro De Vasconcelos
 ## 183 Sayfa
 ### 06.10.2020
   
-</td>
-<td> 
+  <br>
+
   <p align="center" style="padding: 10px">
     <img alt="Şeker-Portakalı" src="../images/21_seker_portakali.jpg" width="250">
     <br>
     
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Zeze:*** 5 yaşında , çok yaramaz bir çocuk

@@ -1,21 +1,14 @@
 
-<table><tr>
-<td align="left"> 
-  
 # Satranç - Stefan Zweig
 ## 76 Sayfa
 ### 13.10.2020
   
-</td>
-<td> 
+  <br>
+ 
   <p align="center" style="padding: 10px">
     <img alt="Satranç" src="../images/23_satranc.jpg" width="250">
     <br>
-    
-  </p> 
-</td>
 
-</tr></table>
 
 ***Karakterler ;*** 
 - ***Mirko Czentovic :*** Dünya satranç şampiyonu
