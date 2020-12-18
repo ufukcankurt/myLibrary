@@ -1,6 +1,4 @@
 
-<table><tr>
-<td align="left"> 
   
 # İnsan Neyle Yaşar - Tolstoy
 ## 92 Sayfa
