@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 47. | DÖNÜŞÜM | FRANZ KAFKA | 96  | 20 ARALIK  | -  |
+| 47. | **[DÖNÜŞÜM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/30_D%C3%B6n%C3%BC%C5%9F%C3%BCm_Franz_Kafka.md)** | FRANZ KAFKA | 96  | 20 ARALIK  | 20 ARALIK  |
 | 46. | **[BABAYA MEKTUP](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/29_Babaya_Mektup_Franz_Kafka.md)** | FRANZ KAFKA | 88  | 19 ARALIK  | 19 ARALIK  |
 | 45. | **[İNSAN NEYLE YAŞAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/28_%C4%B0nsan_Ne_%C4%B0le_Ya%C5%9Far_Tolstoy.md)** | TOLSTOY | 92  | 18 ARALIK  | 18 ARALIK  |
 | 44. | **[ÜÇ YANLIŞ ÜÇ CESET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/27_%C3%9C%C3%A7_Yanl%C4%B1%C5%9F_%C3%9C%C3%A7_Ceset_Agatha_Christie.md)**  | AGATHA CHRİSTİE | 189  | 17 ARALIK  | 17 ARALIK  |
