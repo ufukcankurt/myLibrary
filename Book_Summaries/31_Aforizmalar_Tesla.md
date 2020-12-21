@@ -17,15 +17,15 @@
 <br>
 
 Bu kitabımızın başında Tesla'nın ne kadar zor bir çocukluk geçirdiğinden bahsetmektedir.
-İlk başlarda gözlerinin önünde ışıklar çakıyor ve değişik değişik görüntüler beliriyordu.  Tabi bunlar haliyle hayatını oldukça zor bir hale getiriyor. ***Bu görüntüler gerçekten nesnelerin görntüsünü bozuyor, bir yerden sonra hareketlerinimi kısıtlıyordu. Gözümün önüne gelen bu görüntüler asla hayal ettiğim şeyler değil, mutlaka daha önce gördüğüm nesnelerin ya da manzaraların birer resmiydi. (sf.12)***
+İlk başlarda gözlerinin önünde ışıklar çakıyor ve değişik değişik görüntüler görüyordu.  Tabi bunlar haliyle hayatını oldukça zor bir hale getiriyordu. ***Bu görüntüler gerçekten nesnelerin görüntüsünü bozuyor, bir yerden sonra hareketlerimi kısıtlıyordu. Gözümün önüne gelen bu görüntüler asla hayal ettiğim şeyler değil, mutlaka daha önce gördüğüm nesnelerin ya da manzaraların birer resmiydi. (sf.12)***
 
 ***Uykuya dalmadan önce her zaman insanların ya da nesnelerin görüntüsü geliyor gözlerimin önüne. Onları görmeye başladığımda uyumak üzere olduğumu anlarım. Bu görüntüler bir türlü gözlerimin önüne gelmiyorsa o gece bana uyku yok demektir. (sf.17)***
 
 Bir süre sonra çok büyük bir şiddetle kitap okumaya başlamış ve kitap okumayı çok seviyormuş. Fakat babası kitap okumasına kızmaya ve izin vermemeye başlamış. Buna nazaran yine de bir şekilde bir yolunu bulup gizli gizli, geceden sabaha kadar, yani evdekiler uyanana kadar kitap okumaya devam etmiş.
 
-Sonrasında ise kumara bağımlı olmuş. Ne yaptılarsa vazgeçirememişler. Zaten babası karşı çıkıyormuş. Bir gün tüm parasını kaybetmiş ve yanına annesi gelmiş. Annesi tüm parasına oğluna vermiş ve " al bunları, nasıl olsa hepsini kaybetmeden bırakmayaksın bunu" demiş. Böyle olunca da Tesla, o günden sonra bir daha kumar ya da en ufak bir bahis bile oynamamış.
+Sonrasında ise kumara bağımlı olmuş. Ne yaptılarsa vazgeçirememişler. Zaten babası kumar oynamasına şiddetle karşı çıkıyormuş. Bir gün tüm parasını kaybetmiş ve annesi yanına  gelmiş. Annesi tüm parasına oğluna vermiş ve " al bunları, nasıl olsa hepsini kaybetmeden bırakmayacaksın bu kumar oyununu" demiş. Böyle olunca da Tesla, o günden sonra bir daha kumar ya da en ufak bir bahis bile oynamamış.
 
-Yine buna benzer bir şekilde bir de sigara bağımlılığına başlamış. Bir süre de onunla uğraştıktan ve sağlığı bozulmaya başladıktan sonra onu da bırakmış.. Hatta ve hatta sabahları içtiği kahvenin bile sağlığını bozduğunu fark ettikten sonra kahve içmeyi de bırakmış..
+Yine buna benzer bir şekilde bir de bağımlı bir şekilde sigara içmeye başlamış. Bir süre de onunla uğraştıktan  ve sağlığı bozulmaya başladıktan sonra onu da bırakmış.. Hatta ve hatta sabahları içtiği kahvenin bile sağlığını bozduğunu fark ettikten sonra kahve içmeyi de bırakmış..
 
 ___
 
