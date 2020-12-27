@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 50. | TESLA | VLADIMIR PISTALO | 472  | 23 ARALIK  | 27 ARALIK  |
+| 50. | **[TESLA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/33_Tesla_Vladimir_Pistalo.md)** | VLADIMIR PISTALO | 472  | 23 ARALIK  | 27 ARALIK  |
 | 49. | **[İCATLARIM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/32_%C4%B0catlar%C4%B1m_Tesla.md)** | TESLA | 120  | 22 ARALIK  | 22 ARALIK  |
 | 48. | **[AFORİZMALAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/31_Aforizmalar_Tesla.md)** | TESLA | 160  | 21 ARALIK  | 21 ARALIK  |
 | 47. | **[DÖNÜŞÜM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/30_D%C3%B6n%C3%BC%C5%9F%C3%BCm_Franz_Kafka.md)** | FRANZ KAFKA | 96  | 20 ARALIK  | 20 ARALIK  |
