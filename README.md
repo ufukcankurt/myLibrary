@@ -31,7 +31,7 @@ Benimle direk iletişime geçmek için;
 | 44. | **[ÜÇ YANLIŞ ÜÇ CESET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/27_%C3%9C%C3%A7_Yanl%C4%B1%C5%9F_%C3%9C%C3%A7_Ceset_Agatha_Christie.md)**  | AGATHA CHRİSTİE | 189  | 17 ARALIK  | 17 ARALIK  |
 | 43. | **[GÖREMEDİĞİMİZ TÜM IŞIKLAR](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/26_G%C3%B6remedi%C4%9Fimiz_T%C3%BCm_I%C5%9F%C4%B1klar_Anthony_Doerr.md)** | ANTHONY DOERR | 576  | 12 ARALIK  | 15 ARALIK  |
 | - |  |  |   |   |   |
-| 42. | JANE EYRE | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
+| 42. | **[JANE EYRE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/25_Jane_Eyre_Charlotte_Bronte.md)** | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
 | - |  |  |   |   |   |
 | 41. | ROMEO VE JULIET | WILLIAM SHAKESPEARE | 133  | 21 EKİM  | 23 EKİM  |
 | 40. | **[BİR DELİNİN HATIRA DEFTERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_Bir_Delinin_Hat%C4%B1ra_Defteri_Nikolay_Gogol.md)** | NİKOLAY GOGOL| 128 | 15 EKİM | 17 EKİM |
