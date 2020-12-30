@@ -180,7 +180,7 @@ ___
 -  ***" İç huzurunuza , temiz vicdanınıza ve kirlenmemiş anılarınıza , sizi gıpta ediyorum. Küçük kız , lekesiz ve kirlenmemiş hatıralar muhteşem bir hazinedir ; insanı  yenileyen , tükenmek bilmez bir kaynaktır , değil mi ?" (sf.197)***
 
 -  ***"Hataya meylettiğinizde vicdan azabından korkun , Bayan Eyre ; vicdan azabı hayatın zehridir... " (sf.198)***
-- ***"Gel, bu gece burada büyük bir huzur içinde oturacağı, bir daha burada birlikte oturmak kaderimizde olmasa bile." (sf.367)***
+- ***"Gel, bu gece burada büyük bir huzur içinde oturacağız, bir daha burada birlikte oturmak kaderimizde olmasa bile." (sf.367)***
 - ***"Ben kuş değilim, beni esir etmiş bir ağ falan da yok. Ben bağımsız bir iradeye sahip özgür bir insanım ve şimdi irademi sizi terk etmek yönünde kullanıyorum." (sf.370)***
 - ***"Bu dünyada insanlar hiçbir zaman tam bir mutluluğun keyfini süremez." (sf.378)***
 - ***"Kaderin yüz üstü bıraktığı insanları dostları da unutur." (sf.435)***
