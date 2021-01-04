@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 1. | MUSTAFA KEMAL  | YILMAZ ÖZDİL | 520  | 1 OCAK   |  - |
+| 1. | MUSTAFA KEMAL  | YILMAZ ÖZDİL | 520  | 1 OCAK   |  4 OCAK |
 
 ## 2020
 
