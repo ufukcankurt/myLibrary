@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 2. | AMOK KOŞUCUSU | STEFAN ZWEIG | 96  | 5 ARALIK  | -  |
 | 1. | **[`MUSTAFA KEMAL`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/34_Mustafa_Kemal_Y%C4%B1lmaz_%C3%96zdil.md)**  | YILMAZ ÖZDİL | 520  | 1 OCAK   |  4 OCAK |
 
 ## 2020
