@@ -65,7 +65,7 @@ ___
 
 ### Kitaptan Alıntılar ;
 - ***"Çoğu insanın düşünme ve hayal etme yetisi körelmiştir. Çuvaldızı kendine batırmayan, kendinin farkında olmayan insanları hiçbir şey harekete geçiremez." (sf.5)***
-- ***"İnsan bir defa aptalca davransa ne oalcak diye kendimi rahatlatmaya çalışıyordum. Ama vicdan denen o duygu peşimi hiç bırakmadı." (sf.23)***
+- ***"İnsan bir defa aptalca davransa ne olacak diye kendimi rahatlatmaya çalışıyordum. Ama vicdan denen o duygu peşimi hiç bırakmadı." (sf.23)***
 - ***"Kocamın ölümünden sonra hayat benim için manasını kaybetmeye başlamıştı. Yirmi üç yıl boyunca her dakikamı paylaştığım sevgili eşim gitmişti." (sf.24)***
 - ***"Aşk duygumu eşimle birlikte gömmüştüm." (sf.35)***
 - ***"Bana yüz frankla bin frankla da yardım edilemez, son kuruşumla yine kumarhaneye gider, kaybedene kadar oynarım. Yeniden başlamak için çok yorgunum, çok usandım." (sf.43)***
