@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 4. | OLAĞANÜSTÜ BİR GECE | STEFAN ZWEİG | 80  | 7 OCAK  |   |
 | 3. | **[BİR KADININ YAŞAMINDAN 24 SAAT](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/36_Bir_Kad%C4%B1n%C4%B1n_Ya%C5%9Fam%C4%B1ndan_24_Saat_Stefan_Zweig.md)** | STEFAN ZWEIG | 80  | 6 OCAK  | 6 OCAK  |
 | 2. | **[AMOK KOŞUCUSU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/35_Amok_Kosucusu_Stefan_Zweig.md)** | STEFAN ZWEIG | 96  | 5 OCAK  | 5 OCAK  |
 | 1. | **[`MUSTAFA KEMAL`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/34_Mustafa_Kemal_Y%C4%B1lmaz_%C3%96zdil.md)**  | YILMAZ ÖZDİL | 520  | 1 OCAK   |  4 OCAK |
