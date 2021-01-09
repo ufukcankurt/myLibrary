@@ -71,3 +71,4 @@ _____
 -  ***"Milenyum sözcüğünün gelecekle ilgili olarak kullanıldığını düşünürdüm - her şeyin bambaşka olacağı gelecek!" (sf.189)***
 -  ***"Bundan şüpheleniyordum ama emin değildim. Oysa her zaman emin olmak gerekir." (sf.191)***
 -  ***"İnsanlar bazen köpeklere benzerler. Bir şeyi ne kadar derine gömerseniz gömün yine de bulup çıkarırlar." (sf.196)***
+-  ***"Ve inanın bana istememesine rağmen delicesine âşık olan bir erkeğin kininden daha büyük kin olamaz." (sf.264)***
