@@ -12,6 +12,8 @@
 <br>
 <br>
 
+[Mitolojik Tanrıların Listesine ve Tanımlarına Ulaşmak İçin Tıklayabilirsiniz. (sf.[393-399])](https://github.com/ufukcankurt/myLibrary/tree/master/images/39_Ben_Kirke)
+
 ***Karakterler ;***
 - ***Kirke:*** Güneşin kızı.
 - ***Telegonos:*** Kirke'nin oğlu.
