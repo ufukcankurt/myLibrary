@@ -142,7 +142,7 @@ Bir süre sonra Kirke ve Telemakhos mola verdiler. Üç gün kadar bir adada kal
 - ***"Sen taşıdığın kan değilsin. Seni de kendisiyle birlikte götürmesine izin verme." (s.315)***
 - ***"İki çocuğu vardı, ikisini de açıkça görememişti. Ama belki de hiçbir anne baba evladını gerçekten göremez. Baktığımızda sadece kendi hatalarımızın bir yansımasını görüyoruz." (s.318)***
 - ***"Ama başka kim bütün çirkinlikleri ve hatarıyla geçmişimi hoş görebilirdi ki?" (s.356)***
-- ***"Bazıları yaşamda sevdikleriyle ele ele yürüyor, kimileri sevdiklerinin bir gün geleceğini bilmenin güvencesiyle bekliyordu. Sevmemiş olanlar, hayatları acı ve dehşetle geçmiş olanlar içinse insanın içip unutabileceği kara nehir Lethe vardı. Bir parça teselli." (s.365)***
+- ***"Bazıları yaşamda sevdikleriyle el ele yürüyor, kimileri sevdiklerinin bir gün geleceğini bilmenin güvencesiyle bekliyordu. Sevmemiş olanlar, hayatları acı ve dehşetle geçmiş olanlar içinse insanın içip unutabileceği kara nehir Lethe vardı. Bir parça teselli." (s.365)***
 - ***"Öyleyse çocuğum, başka bir dünya yap." (s.365)***
 - ***"Güldü. "Gideceğin yere eninde sonunda varırdın, sadece sonsuzluğundan epeyce bir kısmını harcaman gerekirdi." (s.383)***
 - ***"Birlikte bir aydan az süre geçirmiştik ama beni dünyadan gelip geçmiş herkesten daha iyi tanıyor gibiydi." (s.383)***
