@@ -12,7 +12,7 @@
 <br>
 <br>
 
-[Mitolojik Tanrıların Listesine ve Tanımlarına Ulaşmak İçin Tıklayabilirsiniz. (sf.[393-399])](https://github.com/ufukcankurt/myLibrary/tree/master/images/39_Ben_Kirke)
+[Mitolojik Tanrıların Listesine ve Tanımlarına Ulaşmak İçin Tıklayabilirsiniz. (sf.[393-399])](https://github.com/ufukcankurt/myLibrary/blob/master/images/39_Ben_Kirke/Mitolojik_Tanr%C4%B1lar.md)
 
 ***Karakterler ;***
 - ***Kirke:*** Güneşin kızı.
