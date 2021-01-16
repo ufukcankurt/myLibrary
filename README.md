@@ -44,7 +44,7 @@ Benimle direk iletişime geçmek için;
 | - |  |  |   |   |   |
 | 42. | **[JANE EYRE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/25_Jane_Eyre_Charlotte_Bronte.md)** | CHARLOTTE BRONTE | 663  | 5 KASIM  | 13 KASIM  |
 | - |  |  |   |   |   |
-| 41. | ROMEO VE JULIET | WILLIAM SHAKESPEARE | 133  | 21 EKİM  | 23 EKİM  |
+| 41. | **[ROMEO VE JULIET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_1_Romeo_ve_Juliet_William_Shakespeare.md)** | WILLIAM SHAKESPEARE | 133  | 21 EKİM  | 23 EKİM  |
 | 40. | **[BİR DELİNİN HATIRA DEFTERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/24_Bir_Delinin_Hat%C4%B1ra_Defteri_Nikolay_Gogol.md)** | NİKOLAY GOGOL| 128 | 15 EKİM | 17 EKİM |
 | 39. | **[SATRANÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/23_Satran%C3%A7_Stefan_Zweig.md)** | STEFAN ZWEİG |76 | 13 EKİM | 13 EKİM |
 | 38. | **[GEÇ ÖDENEN BORÇ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/22_Ge%C3%A7_%C3%96denen_Bor%C3%A7_Stefan_Zweig.md)** | STEFAN ZWEİG | 45 | 8 EKİM | 8 EKİM |
