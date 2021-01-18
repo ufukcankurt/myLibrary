@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 8. | MECBURİYET | STEFAN ZWEIG | 64  | 18 OCAK  | -  |
+| 8. | MECBURİYET | STEFAN ZWEIG | 64  | 18 OCAK  | 18 OCAK  |
 | 7. | **[HAYATIN MUCİZELERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/40_Hayat%C4%B1n_Mucizeleri_Stefan_Zweig.md)** | STEFAN ZWEIG | 96  | 17 ARALIK  | 17 ARALIK  |
 | 6. | **[BEN, KİRKE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/39_Ben_Kirke_Madeline_Miller.md)** | MADELINE MILLER | 408  | 10 OCAK  | 15 OCAK  |
 | 5. | **[MEZOPOTAMYA'DA CİNAYET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/38_Mezopotamyada_Cinayet_Agatha_Christie.md)** | AGATHA CHRISTIE | 285  | 8 OCAK  | 9 OCAK  |
