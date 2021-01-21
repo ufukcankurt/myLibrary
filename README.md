@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 10. | ERİKA EWALD'IN AŞKI | STEFAN ZWEİG | 64  | 20 OCAK  | 20 OCAK  |
+| 10. | **[ERİKA EWALD'IN AŞKI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/43_Erika_Ewald%C4%B1n_A%C5%9Fk%C4%B1_Stefan_Zweig.md)** | STEFAN ZWEİG | 64  | 20 OCAK  | 20 OCAK  |
 | 9. | **[BİLİNMEYEN BİR KADININ MEKTUBU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/42_Bilinmeyen_Bir_Kad%C4%B1n%C4%B1n_Mektubu_Stefan_Zweig.md)** | STEFAN ZWEIG | 64  | 19 OCAK  | 19 OCAK  |
 | 8. | **[MECBURİYET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/41_Mecburiyet_Stefan_Zweig.md)** | STEFAN ZWEIG | 64  | 18 OCAK  | 18 OCAK  |
 | 7. | **[HAYATIN MUCİZELERİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/40_Hayat%C4%B1n_Mucizeleri_Stefan_Zweig.md)** | STEFAN ZWEIG | 96  | 17 ARALIK  | 17 ARALIK  |
