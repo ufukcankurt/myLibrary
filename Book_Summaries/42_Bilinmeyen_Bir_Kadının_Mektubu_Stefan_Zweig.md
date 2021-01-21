@@ -14,10 +14,10 @@
 > ***Hiçbir şekilde bu kitabı okuyup hissetmeden bir şey anlayamazsınız !!!***
 
 ***Karakterler;***
-- ***Fraulein:***
+- ***Fraulein:*** Bilinmeyen bir kadın
 - ***Johann:*** Uşağı
 - ***R. :*** Ünlü roman yazarı
-- ***:***
+
 
 <br>
 
