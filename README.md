@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 12. | SAVAŞ SANATI | SUN TZU |  90 | 22 OCAK  | -  |
 | 11. | **[GÖRÜLMEYEN KOLEKSİYON & FRAGMAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/44_G%C3%B6r%C3%BClmeyen_Koleksiyon_Stefan_Zweig.md)** | STEFAN ZWEIG |  80 | 22 OCAK  | 22 OCAK  |
 | 10. | **[ERİKA EWALD'IN AŞKI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/43_Erika_Ewald%C4%B1n_A%C5%9Fk%C4%B1_Stefan_Zweig.md)** | STEFAN ZWEIG | 64  | 20 OCAK  | 20 OCAK  |
 | 9. | **[BİLİNMEYEN BİR KADININ MEKTUBU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/42_Bilinmeyen_Bir_Kad%C4%B1n%C4%B1n_Mektubu_Stefan_Zweig.md)** | STEFAN ZWEIG | 64  | 19 OCAK  | 19 OCAK  |
