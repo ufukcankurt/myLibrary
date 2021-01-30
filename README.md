@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | - |  |  |   |   |   |
-| 14. | HALİME KAPTAN | RIFAT ILGAZ | 197  | 29 OCAK  | 30 OCAK  |
+| 14. | **[HALİME KAPTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/47_Halime_Kaptan_R%C4%B1fat_Ilgaz.md)** | RIFAT ILGAZ | 197  | 29 OCAK  | 30 OCAK  |
 | 13. | **[CESARET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/46_Cesaret_Osho.md)** | OSHO | 224  | 24 OCAK  |  28 OCAK |
 | 12. | **[SAVAŞ SANATI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/45_Sava%C5%9F_Sanat%C4%B1_Sun_Tzu.md)** | SUN TZU |  90 | 22 OCAK  | 22 OCAK  |
 | 11. | **[GÖRÜLMEYEN KOLEKSİYON & FRAGMAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/44_G%C3%B6r%C3%BClmeyen_Koleksiyon_Stefan_Zweig.md)** | STEFAN ZWEIG |  80 | 22 OCAK  | 22 OCAK  |
