@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 15. | SEMERKANT | AMIN MAALOUF | 318  |  31 OCAK | -  |
+| 15. | SEMERKANT | AMIN MAALOUF | 318  |  31 OCAK | 8 ŞUBAT  |
 | - |  |  |   |   |   |
 | 14. | **[HALİME KAPTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/47_Halime_Kaptan_R%C4%B1fat_Ilgaz.md)** | RIFAT ILGAZ | 197  | 29 OCAK  | 30 OCAK  |
 | 13. | **[CESARET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/46_Cesaret_Osho.md)** | OSHO | 224  | 24 OCAK  |  28 OCAK |
