@@ -157,6 +157,3 @@ Bıkar sonunda, salıverir hiçliğin kuyusuna. <br>
 — Evet. Ama başka türlü. <br>
 — "Başka türlü" nasıl gidilir? <br>
 — Seninle gidiyorum.***
-- ***
-- ***
-- ***
