@@ -9,11 +9,11 @@ Benimle direk iletişime geçmek için;
 
  ***NOT:*** 
  
- - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için , mavi renkteki kitap isimlerine tıklayabilirsiniz.*
+ - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için, mavi renkteki kitap isimlerine tıklayabilirsiniz.*
  - *Okuduğum kitapları takip etmek isterseniz repoma `star ve watch` atabilirsiniz*
 
 
-> Benim hakkımda merak ettiklerinizi yada ; hiç kitap okumuyorken , şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen ziyaret edin --> [***Kitap Okumadaki Motivasyonum***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
+> Benim hakkımda merak ettiklerinizi yada; hiç kitap okumuyorken, şimdi bu duruma nasıl geldiğimi öğrenmek istiyorsanız. Lütfen ziyaret edin --> [***Kitap Okumadaki Motivasyonum***](https://github.com/ufukcankurt/myLibrary/blob/master/about_me/about_me.md)
 
 <br>
 
