@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 16. | BEYAZ GEMİ | CENGIZ AYTMATOV | 174  | 9 ŞUBAT  | -  |
+| 16. | BEYAZ GEMİ | CENGIZ AYTMATOV | 174  | 9 ŞUBAT  | 13 ŞUBAT  |
 | 15. | **[SEMERKANT](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/48_Semerkant_Amin_Maalouf.md)** | AMIN MAALOUF | 318  |  31 OCAK | 8 ŞUBAT  |
 | - |  |  |   |   |   |
 | 14. | **[HALİME KAPTAN](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/47_Halime_Kaptan_R%C4%B1fat_Ilgaz.md)** | RIFAT ILGAZ | 197  | 29 OCAK  | 30 OCAK  |
