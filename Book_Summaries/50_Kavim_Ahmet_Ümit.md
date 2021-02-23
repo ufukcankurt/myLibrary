@@ -35,17 +35,6 @@ _____
 
 <br>
 
-Nazmi, karısını ve kızını öldüren adam.
-
-Nevzat kahramanımız. Ali ve Zeynep; onunla birlikte çalışan diğeri..
-
-Yusuf akdağ - öldürülen hristiyan.
-
-Meryem -- yusuf'un kız arkadası
-
-Evgenia - Nevzat'ın sevgilisi
-
-Antikacı malik
 
 Kitabımız, Başkomiser Nevzat ve kendisiyle birlikte çalışan Ali isimli komiserin sorgusuyla başlıyor. Başkomiser Nevzat ve yanındaki meslektaşı; bir süre önce karısı ve kızını vurarak ölümüne sebep olan Başkomiser Nazmi'nin sorgusunu yapıyorlardı. Nazmi ise olanları olduğu gibi onlara anlattı. Uzun bir süre çalışmanın ardından eve gelen Nazmi, bir süre karısıyla tartıştıktan sonra kendini kaybediyor ve istemeden silahından çıkan kurşunlar eşi ve çocuğunu ondan koparıyor. Gerçekten çok üzücü bir olay.
 
