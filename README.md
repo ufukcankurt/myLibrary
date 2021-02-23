@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 17. | KAVİM |  AHMET ÜMİT | 440  | 17 ŞUBAT  | -  |
+| 17. | KAVİM |  AHMET ÜMİT | 440  | 17 ŞUBAT  | 23 ŞUBAT  |
 | 16. | **[BEYAZ GEMİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/49_Beyaz_Gemi_Cengiz_Aytmatov.md)** | CENGIZ AYTMATOV | 174  | 9 ŞUBAT  | 13 ŞUBAT  |
 | 15. | **[SEMERKANT](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/48_Semerkant_Amin_Maalouf.md)** | AMIN MAALOUF | 318  |  31 OCAK | 8 ŞUBAT  |
 | - |  |  |   |   |   |
