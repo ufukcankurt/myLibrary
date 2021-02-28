@@ -22,6 +22,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 19. | ŞİMDİKİ ÇOCUKLAR HARİKA | AZİZ NESİN | 224  | 1 MART  | -  |
+| - |  |  |   |   |   |
 | 18. | **[POSTANE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/51_Postane_Charles_Bukowski.md)** | CHARLES BUKOWSKI | 168  | 24 ŞUBAT  | 25 ŞUBAT  |
 | 17. | **[KAVİM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/50_Kavim_Ahmet_%C3%9Cmit.md)** |  AHMET ÜMİT | 440  | 17 ŞUBAT  | 23 ŞUBAT  |
 | 16. | **[BEYAZ GEMİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/49_Beyaz_Gemi_Cengiz_Aytmatov.md)** | CENGIZ AYTMATOV | 174  | 9 ŞUBAT  | 13 ŞUBAT  |
