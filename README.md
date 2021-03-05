@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 20. | ÖLMEDEN ÖNCE ÖLÜNÜZ | OSHO | 195  | 4 MART  | -  |
+| 20. | ÖLMEDEN ÖNCE ÖLÜNÜZ | OSHO | 195  | 4 MART  | 5 MART  |
 | 19. | **[ŞİMDİKİ ÇOCUKLAR HARİKA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/52_Simdiki_Cocuklar_Harika_Aziz_Nesin.md)** | AZİZ NESİN | 224  | 1 MART  | 3 MART  |
 | - |  |  |   |   |   |
 | 18. | **[POSTANE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/51_Postane_Charles_Bukowski.md)** | CHARLES BUKOWSKI | 168  | 24 ŞUBAT  | 25 ŞUBAT  |
