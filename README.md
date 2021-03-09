@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 21. | SEVME SANATI | ERICH FROMM | 200  |  7 MART | 9 MART  |
+| 21. | **[SEVME SANATI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/54_Sevme_Sanati_Erich_Fromm.md)** | ERICH FROMM | 200  |  7 MART | 9 MART  |
 | 20. | **[ÖLMEDEN ÖNCE ÖLÜNÜZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/53_Olmeden_Once_Olunuz_Osho.md)** | OSHO | 195  | 4 MART  | 5 MART  |
 | 19. | **[ŞİMDİKİ ÇOCUKLAR HARİKA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/52_Simdiki_Cocuklar_Harika_Aziz_Nesin.md)** | AZİZ NESİN | 224  | 1 MART  | 3 MART  |
 | - |  |  |   |   |   |
