@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 23. | KAFAMDA BİR TUHAFLIK | ORHAN PAMUK | 490  | 14 MART  |  - |
 | 22. | **[ÖRNEKLERLE KOLAY EKONOMİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/55_Orneklerle_Kolay_Ekonomi_Mahfi_Egilmez.md)** | MAHFİ EĞİLMEZ | 192  | 10 MART  | 13 MART  |
 | 21. | **[SEVME SANATI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/54_Sevme_Sanati_Erich_Fromm.md)** | ERICH FROMM | 200  |  7 MART | 9 MART  |
 | 20. | **[ÖLMEDEN ÖNCE ÖLÜNÜZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/53_Olmeden_Once_Olunuz_Osho.md)** | OSHO | 195  | 4 MART  | 5 MART  |
