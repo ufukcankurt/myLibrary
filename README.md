@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 26. | ZEYTİNDAĞI | FALİH RIFKI ATAY | 176  | 31 MART  | 3 MART  |
+| 26. | **[ZEYTİNDAĞI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/59_Zeytindagi_Falih_Rifki_Atay.md)** | FALİH RIFKI ATAY | 176  | 31 MART  | 3 MART  |
 | - |  |  |   |   |   |
 | 25. | **[MONNA ROSA - İLK ŞİİRLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/58_Monna_Rosa_Siirler_1_Sezai_Karakoc.md)** | SEZAİ KARAKOÇ | 48  | 30 MART  | 30 MART  |
 | 24. | **[12 EYLÜL ADALETİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/57_12_Eylul_Adaleti_Ugur_Mumcu.md)**  | UĞUR MUMCU | 132  | 28 MART  |  30 MART |
