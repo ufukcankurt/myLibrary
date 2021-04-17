@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 29. | CİNSİYET ÜZERİNE | SIGMUND FREUD | 152  | 15 NİSAN  | 17 NİSAN  |
+| 29. | **[CİNSİYET ÜZERİNE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/62_cinsiyet_uzerine_sigmund_freud.md)** | SIGMUND FREUD | 152  | 15 NİSAN  | 17 NİSAN  |
 | 28. | **[İYİ DÜŞÜN DOĞRU KARAR VER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/61_iyi_dusun_dogru_karar_ver_dogan_cuceloglu.md)** | DOĞAN CÜCELOĞLU | 350  | 9 NİSAN  | 13 NİSAN  |
 | 27. | **[SEVGİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/60_Sevgi_Osho.md)** | OSHO |  208 |  5 NİSAN | 8 NİSAN  |
 | 26. | **[ZEYTİNDAĞI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/59_Zeytindagi_Falih_Rifki_Atay.md)** | FALİH RIFKI ATAY | 176  | 31 MART  | 3 NİSAN  |
