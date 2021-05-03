@@ -22,7 +22,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 31. | ARABA SEVDASI | RECAİZADE MAHMUT EKREM | 320  | 27 NİSAN  | -  |
+| 31. | ARABA SEVDASI | RECAİZADE MAHMUT EKREM | 320  | 27 NİSAN  | 3 NAYIS  |
+| - |  |  |   |   |   |
 | 30. | **[MÜLKSÜZLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/63_Mulksuzler_Ursula_K_Le_Guin.md)** | URSULA K. LE GUIN | 348  | 19 NİSAN  | 24 NİSAN  |
 | 29. | **[CİNSİYET ÜZERİNE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/62_cinsiyet_uzerine_sigmund_freud.md)** | SIGMUND FREUD | 152  | 15 NİSAN  | 17 NİSAN  |
 | 28. | **[İYİ DÜŞÜN DOĞRU KARAR VER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/61_iyi_dusun_dogru_karar_ver_dogan_cuceloglu.md)** | DOĞAN CÜCELOĞLU | 350  | 9 NİSAN  | 13 NİSAN  |
