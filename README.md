@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 32. | KIRMIZI DEFTER | PAUL AUSTER | 80  |  4 MAYIS | 4 MAYIS  |
+| 32. | **[KIRMIZI DEFTER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/65_Kirmizi_Defter_Paul_Auster.md)** | PAUL AUSTER | 80  |  4 MAYIS | 4 MAYIS  |
 | 31. | **[ARABA SEVDASI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/64_Araba_Sevdasi_Recaizade_Mahmut_Ekrem.md)** | RECAİZADE MAHMUT EKREM | 320  | 27 NİSAN  | 3 NAYIS  |
 | - |  |  |   |   |   |
 | 30. | **[MÜLKSÜZLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/63_Mulksuzler_Ursula_K_Le_Guin.md)** | URSULA K. LE GUIN | 348  | 19 NİSAN  | 24 NİSAN  |
