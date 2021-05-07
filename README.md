@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 33. | CEBİ DELİK  | PAUL AUSTER  |  126 | 6 MAYIS  | 7 MAYIS  |
+| 33. | **[CEBİ DELİK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/66_Cebi_Delik.md)**  | PAUL AUSTER  |  126 | 6 MAYIS  | 7 MAYIS  |
 | 32. | **[KIRMIZI DEFTER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/65_Kirmizi_Defter_Paul_Auster.md)** | PAUL AUSTER | 80  |  4 MAYIS | 4 MAYIS  |
 | 31. | **[ARABA SEVDASI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/64_Araba_Sevdasi_Recaizade_Mahmut_Ekrem.md)** | RECAİZADE MAHMUT EKREM | 320  | 27 NİSAN  | 3 NAYIS  |
 | - |  |  |   |   |   |
