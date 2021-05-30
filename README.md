@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 37. | RUHUN DİRİLİŞİ | SEZAİ KARAKOÇ | 174  | 30 MAYIS  | -  |
 | 36. | **[PİS MORUĞUN NOTLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/69_Pis_Morugun_Notlari_Charles_Bukowski.md)** | CHARLES BUKOWSKI  | 176  | 22 MAYIS  | 24 MAYIS  |
 | 35. | **[UYGARLIĞIN HUZURSUZLUĞU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/68_Uygarl%C4%B1g%C4%B1n_Huzursuzlugu_Sigmund_Freud.md)** | SIGMUND FREUD | 112  | 17 MAYIS  | 19 MAYIS  |
 | 34. | **[SESSİZLİĞİ DİNLEMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/67_Sessizligi_Dinlemek_Osho.md)** | OSHO | 174  | 11 MAYIS  | 16 MAYIS  |
