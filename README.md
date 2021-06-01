@@ -22,14 +22,15 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 37. | RUHUN DİRİLİŞİ | SEZAİ KARAKOÇ | 174  | 30 MAYIS  | -  |
+| 37. | RUHUN DİRİLİŞİ | SEZAİ KARAKOÇ | 174  | 30 MAYIS  | 1 HAZİRAN  |
+| - |  |  |   |   |   | 
 | 36. | **[PİS MORUĞUN NOTLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/69_Pis_Morugun_Notlari_Charles_Bukowski.md)** | CHARLES BUKOWSKI  | 176  | 22 MAYIS  | 24 MAYIS  |
 | 35. | **[UYGARLIĞIN HUZURSUZLUĞU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/68_Uygarl%C4%B1g%C4%B1n_Huzursuzlugu_Sigmund_Freud.md)** | SIGMUND FREUD | 112  | 17 MAYIS  | 19 MAYIS  |
 | 34. | **[SESSİZLİĞİ DİNLEMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/67_Sessizligi_Dinlemek_Osho.md)** | OSHO | 174  | 11 MAYIS  | 16 MAYIS  |
 | 33. | **[CEBİ DELİK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/66_Cebi_Delik.md)**  | PAUL AUSTER  |  126 | 6 MAYIS  | 7 MAYIS  |
 | 32. | **[KIRMIZI DEFTER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/65_Kirmizi_Defter_Paul_Auster.md)** | PAUL AUSTER | 80  |  4 MAYIS | 4 MAYIS  |
 | 31. | **[ARABA SEVDASI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/64_Araba_Sevdasi_Recaizade_Mahmut_Ekrem.md)** | RECAİZADE MAHMUT EKREM | 320  | 27 NİSAN  | 3 NAYIS  |
-| - |  |  |   |   |   |
+| - |  |  |   |   |   | 
 | 30. | **[MÜLKSÜZLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/63_Mulksuzler_Ursula_K_Le_Guin.md)** | URSULA K. LE GUIN | 348  | 19 NİSAN  | 24 NİSAN  |
 | 29. | **[CİNSİYET ÜZERİNE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/62_cinsiyet_uzerine_sigmund_freud.md)** | SIGMUND FREUD | 152  | 15 NİSAN  | 17 NİSAN  |
 | 28. | **[İYİ DÜŞÜN DOĞRU KARAR VER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/61_iyi_dusun_dogru_karar_ver_dogan_cuceloglu.md)** | DOĞAN CÜCELOĞLU | 350  | 9 NİSAN  | 13 NİSAN  |
