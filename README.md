@@ -117,7 +117,7 @@ Benimle direk iletişime geçmek için;
 | 11. | AKLINI EN İYİ ŞEKİLDE KULLAN | TONY BUZAN | 250 | 18 TEMMUZ | 21 TEMMUZ |
 | 10. | İÇİMİZDEKİ ŞEYTAN | SABAHATTİN ALİ | 254 | 15 TEMMUZ | 17 TEMMUZ |
 | 9. | ZAFER SIZLANILARAK KAZANILMAZ | HALUK TATAR | 480 | 8 TEMMUZ | 14 TEMMUZ |
-| 8. | KABLOLARDAKİ HAYALET | KEVİN MİTNİCK | 475 | 1 TEMMUZ | 6 TEMMUZ |
+| 8. | **[KABLOLARDAKİ HAYALET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/01_Kablolardaki_%20Hayalet_Kevin_Mitnick.md)** | KEVİN MİTNİCK | 475 | 1 TEMMUZ | 6 TEMMUZ |
 | - |
 | 7. | BEYAZ GECELER | FYODOR DOSTOYEVSKİ 	 | 202 | 13 HAZİRAN | 22 HAZİRAN |
 | - |
