@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 39. | HUZURSUZLUK  | ZÜLFÜ LİVANELİ | 160  | 27 HAZİRAN   |   | 
+| 39. | HUZURSUZLUK  | ZÜLFÜ LİVANELİ | 160  | 27 HAZİRAN   | 29 HAZİRAN  | 
 | 38. | FARKINDALIK | OSHO | 225  | 12 HAZİRAN  | 22 HAZİRAN  | 
 | 37. | **[RUHUN DİRİLİŞİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/70_Ruhun_Dirilisi_Sezai_Karakoc.md)** | SEZAİ KARAKOÇ | 174  | 30 MAYIS  | 1 HAZİRAN  |
 | - |  |  |   |   |   | 
