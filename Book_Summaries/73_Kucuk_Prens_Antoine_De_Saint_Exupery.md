@@ -17,7 +17,7 @@
 
 > ***(Tanıtım Bülteninden - İthaki Yayınları)***
 
-***"Büyürken yitirdiğimiz değerleri, saf ve masum bir çocuğun gözüyle bakıldığında pek çok yetişkin kaygısının aslında ne kadar da boş ve anlamsız olduğunu, yazdığı hacmen küçük ama aslında kocaman olan kitapla insanlığın kolektif bilinçaltına kazıyan Exupêry, hepimizi yaşantımız boyunca unutamayacağımız bir yolculuğa davet ediyor. Hadi hep beraber yola koyulalım <br> <br> Not: Bu kitabu okurken nerede olursanız olun, lütfen kemerlerinizi bağlayın!"***
+***"Büyürken yitirdiğimiz değerleri, saf ve masum bir çocuğun gözüyle bakıldığında pek çok yetişkin kaygısının aslında ne kadar da boş ve anlamsız olduğunu, yazdığı hacmen küçük ama aslında kocaman olan kitapla insanlığın kolektif bilinçaltına kazıyan Exupêry, hepimizi yaşantımız boyunca unutamayacağımız bir yolculuğa davet ediyor. Hadi hep beraber yola koyulalım <br> <br> Not: Bu kitabı okurken nerede olursanız olun, lütfen kemerlerinizi bağlayın!"***
 _____ 
 
 Kahramanımız küçük bir çocukken, bir gün fil yemiş boa yılanı çizdi ve onu ailesindekilere ve çevresindeki herkese gösterdi fakat herkes ilk bakışta onun bir şapka olduğunu söylediler. Bunun üzerine kahramanımız bu sefer yine bir yılan çizdi fakat midesindeki fili de görünür yaptı. Bu sefer herkese gösterdiğinde ise, böyle şeylerle uğraşamaması gerektiğini ve coğrafya, tarih gibi diğer alanlara yönelmesi gerektiğini söylediler ve kahramanımızın hevesi kırıldığı için belki de geleceğin ressamlarından biri olamadı. Bunun üzerine ise pilot oldu..
