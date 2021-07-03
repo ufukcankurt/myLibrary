@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 41. | SUÇ VE CEZA | FYODOR MIHAYLOVIC DOSTOYEVSKI | 687  | 2 TEMMUZ  | -  | 
 | 40. | **[KÜÇÜK PRENS](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/73_Kucuk_Prens_Antoine_De_Saint_Exupery.md)** | ANTOINE DE SAINT-EXUPÊRY | 109  |  1 TEMMUZ | 1 TEMMUZ | 
 | - |  |  |   |   |   | 
 | 39. | **[HUZURSUZLUK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/72_Huzursuzluk_Zulfu_Livaneli.md)**  | ZÜLFÜ LİVANELİ | 160  | 27 HAZİRAN   | 29 HAZİRAN  | 
