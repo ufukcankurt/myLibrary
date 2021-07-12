@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 42. | HASRETİNDEN PRANGALAR ESKİTTİM | AHMED ARİF | 184  | 11 TEMMUZ  | 12 TEMMUZ  | 
 | 41. | **[`SUÇ VE CEZA`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/74_Suc_Ve_Ceza_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 687  | 2 TEMMUZ  | 9 TEMMUZ  | 
 | 40. | **[KÜÇÜK PRENS](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/73_Kucuk_Prens_Antoine_De_Saint_Exupery.md)** | ANTOINE DE SAINT-EXUPÊRY | 109  |  1 TEMMUZ | 1 TEMMUZ | 
 | - |  |  |   |   |   | 
