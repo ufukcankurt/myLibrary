@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 45. | GÖLGE İZ BIRAKMAZ | JEAN-LUC BANNALEC |  344 | 24 TEMMUZ   |  26 TEMMUZ | 
+| 45. | **[GÖLGE İZ BIRAKMAZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/78_Golge_Iz_Birakmaz_Jean-Luc_Bannalec.md)** | JEAN-LUC BANNALEC |  344 | 24 TEMMUZ   |  26 TEMMUZ | 
 | 44. | **[DNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/77_DNA_Yrsa_Sigurdardottir.md)** | YRSA SIGURDARDOTTIR | 486  | 17 TEMMUZ  |  22 TEMMUZ | 
 | 43. | **[CANIM ALİYE, RUHUM FİLİZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/76_Canim_Aliye_Ruhum_Filiz_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 160  | 14 TEMMUZ  | 14 TEMMUZ  | 
 | 42. | **[HASRETİNDEN PRANGALAR ESKİTTİM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/75_Hasretinden_Prangalar_Eskittim_Ahmed_Arif.md)** | AHMED ARİF | 184  | 11 TEMMUZ  | 12 TEMMUZ  | 
