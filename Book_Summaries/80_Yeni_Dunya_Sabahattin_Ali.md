@@ -93,7 +93,7 @@ ______
 
 ### Kitaptan Alıntılar ;
 
-- ***"Bıraktığın işi yarıda bırakma iki gözüm sana yakışmaz!" (s.9)***
+- ***"Başladığın işi yarıda bırakma iki gözüm sana yakışmaz!" (s.9)***
 - ***"Düşünmesi ve tahayyül etmesi kendisine hoş gelecek hiçbir şey mevcut olmadığı için, bu boşluk ona bir dinlenme gibi geliyordu." (s.36)***
 - ***"Sanki dünyada, beni işime götüren tozlu veya çamurlu yoldan, kerpiç duvarlardan ve ne söylediklerini yarım saat sonra bile hatırlamaya imkân olmayan birkaç iyi kalpli arkadaştan başka bir şey mevcut değildi..." (s.41-42)***
 - ***"Kim olursan ol... Dünyada kendisi için hiçbir şeyi olmayan bir insanın bile başkalarına yardım edebilecek bir şeyi vardır... Hiç olmazsa bir tek sözü..." (s.45)***
