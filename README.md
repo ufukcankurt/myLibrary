@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 48. | FAHRENHEIT 451 |  RAY BRADBURY |208   | 2 AĞUSTOS   | 4 AĞUSTOS  | 
+| 48. | **[FAHRENHEIT 451](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/81_Fahrenheit_451_Ray_Bradbury.md)** |  RAY BRADBURY |208   | 2 AĞUSTOS   | 4 AĞUSTOS  | 
 | - |  |  |   |   |   | 
 | 47. | **[YENİ DÜNYA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/80_Yeni_Dunya_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 128  | 30 TEMMUZ  | 31 TEMMUZ  | 
 | 46. | **[`MARTI JONATHAN LIVINGSTON`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/79_Marti_Jonathan_Livingston_Richard_Bach.md)** | RICHARD BACH | 147  |  26 TEMMUZ | 27 TEMMUZ  | 
