@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 49. | BÜLBÜLÜ ÖLDÜRMEK | HARPER LEE  | 360  | 10 AĞUSTOS  | 12 AĞUSTOS  | 
+| 49. | **[BÜLBÜLÜ ÖLDÜRMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/82_Bulbulu_Oldurmek_Harper_Lee.md)** | HARPER LEE  | 360  | 10 AĞUSTOS  | 12 AĞUSTOS  | 
 | 48. | **[FAHRENHEIT 451](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/81_Fahrenheit_451_Ray_Bradbury.md)** |  RAY BRADBURY |208   | 2 AĞUSTOS   | 4 AĞUSTOS  | 
 | - |  |  |   |   |   | 
 | 47. | **[YENİ DÜNYA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/80_Yeni_Dunya_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 128  | 30 TEMMUZ  | 31 TEMMUZ  | 
