@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 50. | ZAMAN MAKİNESİ | H.G WELLS | 144  | 13 AĞUSTOS  | 14 AĞUSTOS  | 
+| 50. | **[ZAMAN MAKİNESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/83_Zaman_Makinesi_H_G_Wells.md)** | H.G WELLS | 144  | 13 AĞUSTOS  | 14 AĞUSTOS  | 
 | 49. | **[BÜLBÜLÜ ÖLDÜRMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/82_Bulbulu_Oldurmek_Harper_Lee.md)** | HARPER LEE  | 360  | 10 AĞUSTOS  | 12 AĞUSTOS  | 
 | 48. | **[FAHRENHEIT 451](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/81_Fahrenheit_451_Ray_Bradbury.md)** |  RAY BRADBURY |208   | 2 AĞUSTOS   | 4 AĞUSTOS  | 
 | - |  |  |   |   |   | 
