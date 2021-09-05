@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 53. | GÖĞE BAKMA DURAĞI | TURGUT UYAR | 112  | 4 EYLÜL  | -  | 
+| 53. | GÖĞE BAKMA DURAĞI | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
 | - |  |  |   |   |   | 
 | 52. | KARAMAZOV KARDEŞLER | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  | 
 | 51. | **[KORKU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/84_Korku_Stefan_Zweig.md)** | STEFAN ZWEIG |  80  | 16 AĞUSTOS  | 16 AĞUSTOS  | 
