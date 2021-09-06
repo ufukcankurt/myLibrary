@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | -  | 
 | 53. | GÖĞE BAKMA DURAĞI | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
 | - |  |  |   |   |   | 
 | 52. | KARAMAZOV KARDEŞLER | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  | 
