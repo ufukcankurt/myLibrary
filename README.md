@@ -25,7 +25,7 @@ Benimle direk iletişime geçmek için;
 | 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  | 
 | 53. | GÖĞE BAKMA DURAĞI | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
 | - |  |  |   |   |   | 
-| 52. | KARAMAZOV KARDEŞLER | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  | 
+| 52. | **[`KARAMAZOV KARDEŞLER`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/85_Karamazov_Kardesler_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  | 
 | 51. | **[KORKU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/84_Korku_Stefan_Zweig.md)** | STEFAN ZWEIG |  80  | 16 AĞUSTOS  | 16 AĞUSTOS  | 
 | 50. | **[ZAMAN MAKİNESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/83_Zaman_Makinesi_H_G_Wells.md)** | H.G WELLS | 144  | 13 AĞUSTOS  | 14 AĞUSTOS  | 
 | 49. | **[BÜLBÜLÜ ÖLDÜRMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/82_Bulbulu_Oldurmek_Harper_Lee.md)** | HARPER LEE  | 360  | 10 AĞUSTOS  | 12 AĞUSTOS  | 
