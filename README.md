@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | -  | 
+| 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  | 
 | 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  | 
 | 53. | GÖĞE BAKMA DURAĞI | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
 | - |  |  |   |   |   | 
