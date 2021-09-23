@@ -24,7 +24,7 @@ Benimle direk iletişime geçmek için;
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  | 
 | 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  | 
-| 53. | GÖĞE BAKMA DURAĞI | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
+| 53. | **[GÖĞE BAKMA DURAĞI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/86_Goge_Bakma_Duragi_Turgut_Uyar.md)** | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
 | - |  |  |   |   |   | 
 | 52. | **[`KARAMAZOV KARDEŞLER`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/85_Karamazov_Kardesler_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  | 
 | 51. | **[KORKU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/84_Korku_Stefan_Zweig.md)** | STEFAN ZWEIG |  80  | 16 AĞUSTOS  | 16 AĞUSTOS  | 
