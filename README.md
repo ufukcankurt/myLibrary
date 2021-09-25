@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 57. | CEMİLE |  CENGİZ AYTMATOV | 80  |  25 EYLÜL | -  | 
 | 56. | HENÜZ VAKİT VARKEN GÜLÜM | NÂZIM HİKMET  | 112  |  24 EYLÜL | 24 EYLÜL  | 
 | 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  | 
 | 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  | 
