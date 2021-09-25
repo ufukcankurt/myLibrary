@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 56. | HENÜZ VAKİT VARKEN GÜLÜM | NÂZIM HİKMET  | 112  |  24 EYLÜL | -  | 
 | 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  | 
 | 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  | 
 | 53. | **[GÖĞE BAKMA DURAĞI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/86_Goge_Bakma_Duragi_Turgut_Uyar.md)** | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
