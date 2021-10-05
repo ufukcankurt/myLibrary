@@ -22,6 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 58. | YÜZYÜZE | CENGİZ AYTMATOV  |  63 | 5 EKİM  | -  | 
 | 57. | CEMİLE |  CENGİZ AYTMATOV | 80  |  3 EKİM | 3 EKİM  | 
 | - |  |  |   |   |   | 
 | 56. | HENÜZ VAKİT VARKEN GÜLÜM | NÂZIM HİKMET  | 112  |  24 EYLÜL | 24 EYLÜL  | 
