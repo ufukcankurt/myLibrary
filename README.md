@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 58. | **[YÜZYÜZE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/91_Yuzyuze_Cengiz_Aytmatov.md)** | CENGİZ AYTMATOV  |  63 | 7 EKİM  | 7 EKİM  | 
-| 57. | CEMİLE |  CENGİZ AYTMATOV | 80  |  3 EKİM | 3 EKİM  | 
+| 57. | **[CEMİLE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/90_Cemile_Cengiz_Aytmatov.md)** |  CENGİZ AYTMATOV | 80  |  3 EKİM | 3 EKİM  | 
 | - |  |  |   |   |   | 
 | 56. | HENÜZ VAKİT VARKEN GÜLÜM | NÂZIM HİKMET  | 112  |  24 EYLÜL | 24 EYLÜL  | 
 | 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  | 
