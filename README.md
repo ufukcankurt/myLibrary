@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 59. | ALTINCI KOĞUŞ  | ANTON ÇEHOV  | 68  | 12 EKİM  | -  | 
+| 59. | ALTINCI KOĞUŞ  | ANTON ÇEHOV  | 68  | 12 EKİM  | 12 EKİM  | 
 | 58. | **[YÜZYÜZE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/91_Yuzyuze_Cengiz_Aytmatov.md)** | CENGİZ AYTMATOV  |  63 | 7 EKİM  | 7 EKİM  | 
 | 57. | **[CEMİLE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/90_Cemile_Cengiz_Aytmatov.md)** |  CENGİZ AYTMATOV | 80  |  3 EKİM | 3 EKİM  | 
 | - |  |  |   |   |   | 
