@@ -261,6 +261,6 @@ ____
 - ***"bir de ekmeği <br> son lokmasına dek yemeyi <br> bir de ağız dolusu gülmeyi unutma hiçbir zaman." (s.68)***
 - ***`"Bir de kim bilir` <br> `sevdiğin kadın seni sevmez olur." (s.68)`***
 - ***"Ne ölümden korkmak ayıp, <br> ne de düşünmek ölümü." (s.77)***
-- ***"En iyisi ağaçlar, <br> ağaçlar anılardan uzun yaşar... <br> Git orda en yaşlı kestanenin altına otur bir gün. <br> Her şeyi unut, <br> ayrılığımızı bile, <br> sede beni düşün..." (s.85)***
+- ***"En iyisi ağaçlar, <br> ağaçlar anılardan uzun yaşar... <br> Git orda en yaşlı kestanenin altına otur bir gün. <br> Her şeyi unut, <br> ayrılığımızı bile, <br> sade beni düşün..." (s.85)***
 - ***"Bu sarı sıcaklarda seni düşünüyorum <br> bu sarı sıcaklarda bir otel odasında seni düşünüp <br> yalnızlığımı soyunuyorum <br> biraz da ölüme benzeyen yalnızlığımı." (s.100)***
 - ***"...kimi insan otların kimi insan balıkların çeşidini bilir <br> ben ayrılıkların <br> kimi insan ezbere sayar yıldızların adını <br> ben hasretlerin." (s.103)***
