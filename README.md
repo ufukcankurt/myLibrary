@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 62. | ANAYURT OTELİ | YUSUF ATILGAN |  128 | 12 KASIM   | -  |
+| 62. | ANAYURT OTELİ | YUSUF ATILGAN |  128 | 12 KASIM   | 13 KASIM  |
 | 61. | **[NOEL'DE CİNAYET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/94_Noelde_Cinayet_Agatha_Christie.md)** | AGATHA CHRISTIE | 176  | 4 KASIM  | 5 KASIM  |
 | - |  |  |   |   |   |
 | 60. | **[BÖYLE SÖYLEDİ ZERDÜŞT](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/93_Boyle_Soyledi_Zerdust_Friedrich_Nietzsche.md)** | FRIEDRICH NIETZSCHE | 335  |  14 EKİM | 28 EKİM  | 
