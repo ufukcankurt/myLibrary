@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 63. | ÜÇ BÜYÜK USTA - BALZAC, DİCKENS, DOSTOYEVSKİ | STEFAN ZWEIG | 228  | 16 KASIM   |  - |
+| 63. | ÜÇ BÜYÜK USTA - BALZAC, DİCKENS, DOSTOYEVSKİ | STEFAN ZWEIG | 228  | 16 KASIM   |  27 KASIM |
 | 62. | **[ANAYURT OTELİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/95_Anayurt_Oteli_Yusuf_Atilgan.md)** | YUSUF ATILGAN |  128 | 12 KASIM   | 13 KASIM  |
 | 61. | **[NOEL'DE CİNAYET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/94_Noelde_Cinayet_Agatha_Christie.md)** | AGATHA CHRISTIE | 176  | 4 KASIM  | 5 KASIM  |
 | - |  |  |   |   |   |
