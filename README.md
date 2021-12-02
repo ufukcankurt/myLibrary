@@ -22,6 +22,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 65. | DOKUZA KADAR ON | ÖZDEMİR ASAF | 112  | 1 ARALIK  |  - |
+| - |  |  |   |   |   |
 | 64. | DEĞİRMEN | SABAHATTİN ALİ | 140  |  29 KASIM | 30 KASIM  |
 | 63. | **[ÜÇ BÜYÜK USTA - BALZAC, DİCKENS, DOSTOYEVSKİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/96_Uc_Buyuk_Usta-Balzac-Dickens-Dostoyevski-Stefan_Zweig.md)** | STEFAN ZWEIG | 228  | 16 KASIM   |  27 KASIM |
 | 62. | **[ANAYURT OTELİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/95_Anayurt_Oteli_Yusuf_Atilgan.md)** | YUSUF ATILGAN |  128 | 12 KASIM   | 13 KASIM  |
