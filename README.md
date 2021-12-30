@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 68. | KAĞNI-SES-ESİRLER | SABAHATTİN ALİ | 222  |  24 ARALIK | - |
+| 68. | KAĞNI-SES-ESİRLER | SABAHATTİN ALİ | 222  |  24 ARALIK | 26 ARALIK |
 | 67. | BÜTÜN ŞİİRLERİ |  SABAHATTİN ALİ | 161  | 20 ARALIK  |  23 ARALIK |
 | 66. | KAMELYALI KADIN  | ALEXANDRE DUMAS (FILS) | 234  | 6 ARALIK  | 14 ARALIK  |
 | 65. | DOKUZA KADAR ON | ÖZDEMİR ASAF | 112  | 1 ARALIK  |  2 ARALIK |
