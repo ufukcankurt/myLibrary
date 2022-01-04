@@ -23,6 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 71. | PUSLU KITALAR ATLASI | İHSAN OKTAY ANAR | 238  | 30 ARALIK  | -  |
 | 70. | GEÇMİŞE YOLCULUK  | STEFAN ZWEIG | 52   | 29 ARALIK  | 29 ARALIK  |
 | 69. | AH'LAR AĞACI | DİDEM MADAK | 76  |  28 ARALIK | 28 ARALIK  |
 | 68. | KAĞNI-SES-ESİRLER | SABAHATTİN ALİ | 222  |  24 ARALIK | 26 ARALIK |
