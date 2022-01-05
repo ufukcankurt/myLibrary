@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 1. | MACBETH | WILLIAM SHAKESPEARE | 154  | 4 OCAK  | -  |
+| 1. | MACBETH | WILLIAM SHAKESPEARE | 154  | 4 OCAK  | 5 OCAK   |
 
 
 ## 2021
