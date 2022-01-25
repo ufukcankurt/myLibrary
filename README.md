@@ -23,6 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 4. | MARTİN EDEN  | JACK LONDON | 520  |  25 OCAK | -  |
 | 3. | **[YALNIZLIK PAYLAŞILMAZ](./Book_Summaries/107_Yalnizlik_Paylasilmaz_Ozdemir_Asaf.md)** | ÖZDEMİR ASAF | 156  | 15 OCAK  | 16 OCAK  |
 | 2. | **[İVAN İLYİÇ'İN ÖLÜMÜ](./Book_Summaries/106_Ivan_Ilyicin_Olumu.md)** | LEV TOLSTOY | 100  | 11 OCAK  | 11 OCAK  |
 | 1. | **[MACBETH](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/105_Macbeth_William_Shakespeare.md)** | WILLIAM SHAKESPEARE | 154  | 4 OCAK  | 5 OCAK   |
