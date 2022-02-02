@@ -35,7 +35,7 @@ Benimle direk iletişime geçmek için;
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 71. | PUSLU KITALAR ATLASI | İHSAN OKTAY ANAR | 238  | 30 ARALIK  | 31 ARALIK  |
 | 70. | GEÇMİŞE YOLCULUK  | STEFAN ZWEIG | 52   | 29 ARALIK  | 29 ARALIK  |
-| 69. | AH'LAR AĞACI | DİDEM MADAK | 76  |  28 ARALIK | 28 ARALIK  |
+| 69. | **[AH'LAR AĞACI](./Book_Summaries/102_Ahlar_Agaci_Didem_Madak.md)** | DİDEM MADAK | 76  |  28 ARALIK | 28 ARALIK  |
 | 68. | KAĞNI-SES-ESİRLER | SABAHATTİN ALİ | 222  |  24 ARALIK | 26 ARALIK |
 | 67. | BÜTÜN ŞİİRLERİ |  SABAHATTİN ALİ | 161  | 20 ARALIK  |  23 ARALIK |
 | 66. | KAMELYALI KADIN  | ALEXANDRE DUMAS (FILS) | 234  | 6 ARALIK  | 14 ARALIK  |
