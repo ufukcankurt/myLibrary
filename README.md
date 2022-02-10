@@ -23,6 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 5. | CİMRİ | MOLIERE | 104  | 10 ŞUBAT  | -  |
 | 4. | MARTİN EDEN  | JACK LONDON | 520  |  5 ŞUBAT | 8 ŞUBAT  |
 | - |  |  |   |   |   |
 | 3. | **[YALNIZLIK PAYLAŞILMAZ](./Book_Summaries/107_Yalnizlik_Paylasilmaz_Ozdemir_Asaf.md)** | ÖZDEMİR ASAF | 156  | 15 OCAK  | 16 OCAK  |
