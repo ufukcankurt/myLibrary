@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 7. | KÖPEK KALBİ | MIHAIL BULGAKOV | 132  | 17 ŞUBAT  | -  |
+| 7. | KÖPEK KALBİ | MIHAIL BULGAKOV | 132  | 17 ŞUBAT  | 18 ŞUBAT  |
 | 6. | OTOMATİK PORTAKAL | ANTHONY BURGESS | 172   | 12 ŞUBAT  | 15 ŞUBAT  |
 | 5. | **[CİMRİ](./Book_Summaries/109_Cimri_Moliere.md)** | MOLIERE | 104  | 10 ŞUBAT  | 10 ŞUBAT  |
 | 4. | MARTİN EDEN  | JACK LONDON | 520  |  5 ŞUBAT | 8 ŞUBAT  |
