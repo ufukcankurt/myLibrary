@@ -26,7 +26,7 @@ Benimle direk iletişime geçmek için;
 | 7. | **[KÖPEK KALBİ](./Book_Summaries/111_Kopek_Kalbi_Mihail_Bulgakov.md)** | MIHAIL BULGAKOV | 132  | 17 ŞUBAT  | 18 ŞUBAT  |
 | 6. | **[OTOMATİK PORTAKAL](./Book_Summaries/110_Otomatik_Portakal_Anthony_Burgess.md)** | ANTHONY BURGESS | 172   | 12 ŞUBAT  | 15 ŞUBAT  |
 | 5. | **[CİMRİ](./Book_Summaries/109_Cimri_Moliere.md)** | MOLIERE | 104  | 10 ŞUBAT  | 10 ŞUBAT  |
-| 4. | MARTİN EDEN  | JACK LONDON | 520  |  5 ŞUBAT | 8 ŞUBAT  |
+| 4. | **[`MARTİN EDEN`](./Book_Summaries/108_Martin_Eden_Jack_London.md)**  | JACK LONDON | 520  |  5 ŞUBAT | 8 ŞUBAT  |
 | - |  |  |   |   |   |
 | 3. | **[YALNIZLIK PAYLAŞILMAZ](./Book_Summaries/107_Yalnizlik_Paylasilmaz_Ozdemir_Asaf.md)** | ÖZDEMİR ASAF | 156  | 15 OCAK  | 16 OCAK  |
 | 2. | **[İVAN İLYİÇ'İN ÖLÜMÜ](./Book_Summaries/106_Ivan_Ilyicin_Olumu.md)** | LEV TOLSTOY | 100  | 11 OCAK  | 11 OCAK  |
