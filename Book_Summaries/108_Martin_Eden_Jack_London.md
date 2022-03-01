@@ -23,9 +23,7 @@
 - ***Russ Brissenden:*** Martin'in kendine en yakın bulduğu dostu.
 - ***Lizzie:*** Koşulsuz şartsız Martin'e aşık olan kız.
 - ***Joe:*** Martin'in çamaşırhanede birlikte çalıştığı arkadaşı.
-- ***:***
-- ***:***
-- ***:***
+
 
 <br>
 
@@ -254,40 +252,8 @@ Denize ulaşmadan salimen." (s.477)***
 ______________
 
 
+- ***6+11+44+62+63+88+103+108+131+142+297+298+302+303+334+335+366+367+375+383+384+385+392+393+394+402+403+413+415+424+430+431+433+434+437+438+439+440+441+442+446+455+456+457+458+460+461+477***
 
-Kitaplar Yazılmıştı!
-
-The Millennium'dan gelen 350 dolarlık çek, "Macera" eseri için.
-Hawaii'de  geçen hikayesi "Wiki-Wiki"ye, Warren's Monthly iki yüz elli dolar ödedi. (s.411)
-"Beklenen" için 500 dolarlık bir telif teklif etmişti ve bu kabul edildi. Martin, Gertrude'ye verdiği söz olarak beş doların 100 katını ablasına verirken şunları söyledi: "Tramvay param yokken bana verdiğin beşliği hatırlıyor musun? İşte o burada; yanında da yaşları farklı ama boyutları aynı doksan dokuz kardeşi." (s.413)
-
-Bir daha asla yazmayacaktı. Bu konuda kararı kesindi. (s.416)
-
-Güneşin Utancı" isimli ilk kitabı basıldı. Ama en ufak bir heyecan duymadı. Getireceği tek şey paraydı. Artık parayla da bir işi kalmamıştı. (s.427)
-
-Yayınevi Martin Eden ile anlaşma yapmıştı. Yazmış ya da yazacak olduğu her şeyi kabul edeceklerini söylemişlerdi. Bunun üzerine Martin Eden'in daha sonradan gönderdiği kitap karşılığında beş bin dolar çek vermişlerdi. Martin Eden bunun üzerine Çekin eline geçtiği sabah, "Maria, bu öğleden sonra saat iki de benimle bir yere gelmeni istiyorum," dedi. "Ya da şöyle yapalım, saat iki de 14. Sokak ile Broadway Caddesi'nin köşesinde buluşalım. Seni orada bekleyeceğim." (s.430)
-
-Martin Eden, hem "Beklenen" hem de "Güneşin Utancı" eserleriyle birlikte Martin, daha önce hiç olmamış bir şeyi, hem de haftalar boyunca gerçekleştirmiş oluyordu: en çok satanlar listesinin en tepesinde iki kitabı birden vardı. (s.432)
-
-
-Beklenen'i bitirdi.
-
-yer: Oakland
-
-6 + 11+ 44+ 62+63+88+103+108+131+142+
-
-peynir surat : dövüştüğü çocuk
-Joe : İş verdiği çamaşırcı adam
-White Mouse - ilk hikayesine 40 dolar veren dergi.
-cüzzam: hastalık
-
-Fani:
-Güneşin Utancı:
-
-Herbert Spencer:
-
-Gelen Mektup: 392
-Sosyolist hain
 _____________
 
 <br>
@@ -392,7 +358,7 @@ _____________
 - ***"Haritasız ve dümensiz kalmış, gideceği limanı olmayan bir gemiydi. Kendini akıntıya bırakıp sürüklenmek, en azından hareket etmek,  hayatta kalmak demekti içini acıtan şey de zaten buydu; yaşamak." (s.408)***
 - ***`"Arkadaşı ve tanıdığı yoktu, kimseyle tanışmaya da çalışmıyordu. Hiç heves etmiyordu böyle şeylere." (s.408)`***
 - ***"Onları terk ettiği için amma da salak olduğunu düşündü; bütün o kitaplara, yüksek mevkilerdeki insanlara bulaşmayıp bunlarla kalmış olsa elde edeceği toplam mutluluğun çok daha büyük olacağı kesindi." (s.417)***
-- ***"Hayat büyük bir hata  (bence), utanç verici bir maskaralık. Aynen öyle, büyük bir hata hayat, utanç verici bir maskaralık." (s.425)
+- ***"Hayat büyük bir hata  (bence), utanç verici bir maskaralık. Aynen öyle, büyük bir hata hayat, utanç verici bir maskaralık." (s.425)***
 - ***"Yazdığı her şeyi; şiirlerini, hikayelerini, denemelerini, 'Wiki-Wiki'yi, 'Güneşin Utancı'nı Ruth'a okumuştu. Sanki Martin ona layık olmak için sürekli  çalışmıyormuş, uykusundan çalmıyormuş, hayatını tüketmiyormuş gibi düzenli bir iş bulup sürekli aynı daireye gidip gelmesi için ısrarla zorlamıştı Ruth." (s.441)***
 - ***"Halk kütüphanesindeki binlerce kitabı ilk gördüğünde ağzı açık kalan ama sonrasında kitapların içinde yolunu bulmayı öğrenip onların efendisi olandı." (s.451)***
 - ***"Brissenden'in uyarısını hatırlayıp bir daha gülüyordu. Kadınlar onu asla yok edemeyecekti, bu kesindi. O aşamayı çoktan geçmişti." (s.452)***
@@ -406,24 +372,5 @@ _____________
 - ***"Kim bilir, belki de haklıydı. Belki de hiçbir şeyde hakikat yoktu, hakikatin kendisinde bile; hakikat  diye bir şey yoktu." (s.476)***
 - ***"Bunca şevkle tutunmaktan hayata, <br> Serbest kalmış korkudan, ümitten <br> Kaçar ve şükrederiz tanrılara; <br> Bu lütuf geldiyse hangisinden. <br> Bir canlı sonsuza dek ömür sürmez <br> Ölü adam hiçbir zaman dirilmez <br> En yorulmuş nehir bile dinlemez <br> Denize ulaşmadan salimen." (s.477)***
 - ***"Dipte bir yerlerde karanlığın içine düştü. Bu kadarını fark edebildi. Karanlığın içindeydi artık. Bunu fark ettiği  anda da farkındalığı sona erdi." (s.480)***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***6 + 11+ 44+ 62+63+88+103+108+131+142+297+298+302+303+334+335+366+367+375+383+384+385+392+393+394+402+403+413+415+424+430+431+433+434+437+438+439+440+441+442+446+455+456+457+458+460+461+477+
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
-- ***
+
+
