@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 8. | SAKIN ŞAŞIRMA | ORHAN VELİ KANIK | 112  | 2 MART  | -  |
+| 8. | SAKIN ŞAŞIRMA | ORHAN VELİ KANIK | 112  | 2 MART  | 3 MART  |
 | - |  |  |   |   |   |
 | 7. | **[KÖPEK KALBİ](./Book_Summaries/111_Kopek_Kalbi_Mihail_Bulgakov.md)** | MIHAIL BULGAKOV | 132  | 17 ŞUBAT  | 18 ŞUBAT  |
 | 6. | **[OTOMATİK PORTAKAL](./Book_Summaries/110_Otomatik_Portakal_Anthony_Burgess.md)** | ANTHONY BURGESS | 172   | 12 ŞUBAT  | 15 ŞUBAT  |
