@@ -23,6 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 9. | BİR KALBİN ÇÖKÜŞÜ |  STEFAN ZWEIG | 56  | 6 MART  | -  |
 | 8. | **[SAKIN ŞAŞIRMA](./Book_Summaries/112_Sakin_Sasirma_Orhan_Veli.md)** | ORHAN VELİ KANIK | 112  | 2 MART  | 3 MART  |
 | - |  |  |   |   |   |
 | 7. | **[KÖPEK KALBİ](./Book_Summaries/111_Kopek_Kalbi_Mihail_Bulgakov.md)** | MIHAIL BULGAKOV | 132  | 17 ŞUBAT  | 18 ŞUBAT  |
