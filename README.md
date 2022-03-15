@@ -23,6 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 11. | NASIL ÖLÜNÜR | EMILE ZOLA  | 48  | 10 MART  | -   |
 | 10. | MORGUE SOKAĞI CİNAYETLERİ | EDGAR ALLAN POE | 56  |  8 MART | 8 MART  |
 | 9. | **[BİR KALBİN ÇÖKÜŞÜ](./Book_Summaries/113_Bir_Kalbin_Cokusu_Stefan_Zweig.md)** |  STEFAN ZWEIG | 56  | 6 MART  | 6 MART  |
 | 8. | **[SAKIN ŞAŞIRMA](./Book_Summaries/112_Sakin_Sasirma_Orhan_Veli.md)** | ORHAN VELİ KANIK | 112  | 2 MART  | 3 MART  |
