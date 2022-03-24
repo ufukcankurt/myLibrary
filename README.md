@@ -24,7 +24,7 @@ Benimle direk iletişime geçmek için;
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 13. | KIZIL | STEFAN ZWEIG | 72  | 23 MART  | 23 MART  |
-| 12. | OLALLA |  ROBERT LOUIS STEVENSON | 64  | 16 MART  | 16 MART  |
+| 12. | **[OLALLA](./Book_Summaries/116_Olalla_Robert_Louis_Stevensen.md)** |  ROBERT LOUIS STEVENSON | 64  | 16 MART  | 16 MART  |
 | 11. | NASIL ÖLÜNÜR | EMILE ZOLA  | 48  | 10 MART  | 11 MART   |
 | 10. | **[MORGUE SOKAĞI CİNAYETLERİ](./Book_Summaries/113_Bir_Kalbin_Cokusu_Stefan_Zweig.md)** | EDGAR ALLAN POE | 56  |  8 MART | 8 MART  |
 | 9. | **[BİR KALBİN ÇÖKÜŞÜ](./Book_Summaries/113_Bir_Kalbin_Cokusu_Stefan_Zweig.md)** |  STEFAN ZWEIG | 56  | 6 MART  | 6 MART  |
