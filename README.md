@@ -25,7 +25,7 @@ Benimle direk iletişime geçmek için;
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 13. | KIZIL | STEFAN ZWEIG | 72  | 23 MART  | 23 MART  |
 | 12. | **[OLALLA](./Book_Summaries/116_Olalla_Robert_Louis_Stevensen.md)** |  ROBERT LOUIS STEVENSON | 64  | 16 MART  | 16 MART  |
-| 11. | NASIL ÖLÜNÜR | EMILE ZOLA  | 48  | 10 MART  | 11 MART   |
+| 11. | **[NASIL ÖLÜNÜR](./Book_Summaries/115_Nasil_Olunur_Emile_Zola.md)** | EMILE ZOLA  | 48  | 10 MART  | 11 MART   |
 | 10. | **[MORGUE SOKAĞI CİNAYETLERİ](./Book_Summaries/113_Bir_Kalbin_Cokusu_Stefan_Zweig.md)** | EDGAR ALLAN POE | 56  |  8 MART | 8 MART  |
 | 9. | **[BİR KALBİN ÇÖKÜŞÜ](./Book_Summaries/113_Bir_Kalbin_Cokusu_Stefan_Zweig.md)** |  STEFAN ZWEIG | 56  | 6 MART  | 6 MART  |
 | 8. | **[SAKIN ŞAŞIRMA](./Book_Summaries/112_Sakin_Sasirma_Orhan_Veli.md)** | ORHAN VELİ KANIK | 112  | 2 MART  | 3 MART  |
