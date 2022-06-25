@@ -23,6 +23,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| - |  |  |   |   |   |
 | 14. | **[ERMİŞ](./Book_Summaries/118_Ermis_Halil_Cibran.md)** | HALİL CİBRAN | 55  | 30 MART  | 31 MART  |
 | 13. | **[KIZIL](./Book_Summaries/117_Kizil_Stefan_Zweig.md)** | STEFAN ZWEIG | 72  | 23 MART  | 23 MART  |
 | 12. | **[OLALLA](./Book_Summaries/116_Olalla_Robert_Louis_Stevensen.md)** |  ROBERT LOUIS STEVENSON | 64  | 16 MART  | 16 MART  |
