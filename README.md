@@ -23,7 +23,7 @@ Arayışlar - Lou Andreas-Salomé
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 15. | ARAYIŞLAR| LOU ANDREAS-SALOME | 64  | 28 HAZİRAN  | -  |
+| 15. | ARAYIŞLAR| LOU ANDREAS-SALOME | 64  | 28 HAZİRAN  | 29 HAZİRAN  |
 | - |  |  |   |   |   |
 | 14. | **[ERMİŞ](./Book_Summaries/118_Ermis_Halil_Cibran.md)** | HALİL CİBRAN | 55  | 30 MART  | 31 MART  |
 | 13. | **[KIZIL](./Book_Summaries/117_Kizil_Stefan_Zweig.md)** | STEFAN ZWEIG | 72  | 23 MART  | 23 MART  |
