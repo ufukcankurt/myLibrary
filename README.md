@@ -23,7 +23,7 @@ Arayışlar - Lou Andreas-Salomé
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 16. | UÇURTMA AVCISI | KHALED HOSSEINI  | 375  | 2 TEMMUZ  | -  |
+| 16. | UÇURTMA AVCISI | KHALED HOSSEINI  | 375  | 2 TEMMUZ  | 12 TEMMUZ  |
 | - |  |  |   |   |   |
 | 15. | ARAYIŞLAR| LOU ANDREAS-SALOME | 64  | 28 HAZİRAN  | 29 HAZİRAN  |
 | - |  |  |   |   |   |
