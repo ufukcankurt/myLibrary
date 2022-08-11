@@ -23,7 +23,7 @@ Arayışlar - Lou Andreas-Salomé
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 18. | DA VİNCİ ŞİFRESİ | DAN BROWN | 495  | 3 AĞUSTOS  | -  |
+| 18. | DA VİNCİ ŞİFRESİ | DAN BROWN | 495  | 3 AĞUSTOS  |  12 AĞUSTOS  |
 | - |  |  |   |   |   |
 | 17. | BEYAZ DİŞ | JACK LONDON  | 258  | 14 TEMMUZ  | 25 TEMMUZ  |
 | 16. | UÇURTMA AVCISI | KHALED HOSSEINI  | 375  | 2 TEMMUZ  | 12 TEMMUZ  |
