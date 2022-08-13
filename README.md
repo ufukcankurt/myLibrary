@@ -23,6 +23,7 @@ Arayışlar - Lou Andreas-Salomé
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 19. | NOTRE DAME'IN KAMBURU | VICTOR HUGO | 572  | 14 AĞUSTOS  | -  |
 | 18. | DA VİNCİ ŞİFRESİ | DAN BROWN | 495  | 3 AĞUSTOS  |  12 AĞUSTOS  |
 | - |  |  |   |   |   |
 | 17. | BEYAZ DİŞ | JACK LONDON  | 258  | 14 TEMMUZ  | 25 TEMMUZ  |
