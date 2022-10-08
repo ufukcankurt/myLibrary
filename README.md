@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 21. | SİNEKLERİN TANRISI | WILLIAM GOLDING | 261  |  8 EKİM | -  |
+| - |  |  |   |   |   |
 | 20. | EMPATİ  |  ADAM FAWER | 690  | 16 EYLÜL  | 30 EYLÜL  |
 | - |  |  |   |   |   |
 | 19. | NOTRE DAME'IN KAMBURU | VICTOR HUGO | 572  | 14 AĞUSTOS  | 30 AĞUSTOS  |
