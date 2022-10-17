@@ -23,7 +23,7 @@ Benimle direk iletişime geçmek için;
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 21. | SİNEKLERİN TANRISI | WILLIAM GOLDING | 261  |  8 EKİM | -  |
 | - |  |  |   |   |   |
-| 20. | EMPATİ  |  ADAM FAWER | 690  | 16 EYLÜL  | 30 EYLÜL  |
+| 20. | **[EMPATİ](./Book_Summaries/124_Empati_Adam_Fawer.md)**  |  ADAM FAWER | 690  | 16 EYLÜL  | 30 EYLÜL  |
 | - |  |  |   |   |   |
 | 19. | NOTRE DAME'IN KAMBURU | VICTOR HUGO | 572  | 14 AĞUSTOS  | 30 AĞUSTOS  |
 | 18. | **[DA VİNCİ ŞİFRESİ](./Book_Summaries/122_Da_Vinci_Sifresi_Dan_Brown.md)** | DAN BROWN | 495  | 3 AĞUSTOS  |  12 AĞUSTOS  |
