@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 21. | SİNEKLERİN TANRISI | WILLIAM GOLDING | 261  |  8 EKİM | -  |
+| 21. | SİNEKLERİN TANRISI | WILLIAM GOLDING | 261  |  8 EKİM | 21 EKİM  |
 | - |  |  |   |   |   |
 | 20. | **[EMPATİ](./Book_Summaries/124_Empati_Adam_Fawer.md)**  |  ADAM FAWER | 690  | 16 EYLÜL  | 30 EYLÜL  |
 | - |  |  |   |   |   |
