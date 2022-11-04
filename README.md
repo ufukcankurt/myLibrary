@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 23. | BİR KUZEY MACERASI | JACK LONDON | 56  | 4 KASIM  | -  |
+| - |  |  |   |   |   |
 | 22. | BİN MUHTEŞEM GÜNEŞ | KHALED HOSSEINI | 430  |  22 EKİM | 29 EKİM  |
 | 21. | SİNEKLERİN TANRISI | WILLIAM GOLDING | 261  |  8 EKİM | 21 EKİM  |
 | - |  |  |   |   |   |
