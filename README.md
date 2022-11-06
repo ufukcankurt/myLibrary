@@ -24,7 +24,7 @@ Benimle direk iletişime geçmek için;
 | 23. | BİR KUZEY MACERASI | JACK LONDON | 56  | 4 KASIM  | 4 KASIM  |
 | - |  |  |   |   |   |
 | 22. | BİN MUHTEŞEM GÜNEŞ | KHALED HOSSEINI | 430  |  22 EKİM | 29 EKİM  |
-| 21. | SİNEKLERİN TANRISI | WILLIAM GOLDING | 261  |  8 EKİM | 21 EKİM  |
+| 21. | **[SİNEKLERİN TANRISI](./Book_Summaries/126_Sineklerin_Tanrisi_William_Golding.md)** | WILLIAM GOLDING | 261  |  8 EKİM | 21 EKİM  |
 | - |  |  |   |   |   |
 | 20. | **[EMPATİ](./Book_Summaries/124_Empati_Adam_Fawer.md)**  |  ADAM FAWER | 690  | 16 EYLÜL  | 30 EYLÜL  |
 | - |  |  |   |   |   |
