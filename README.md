@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 24. | LYON'DA DÜĞÜN | STEFAN ZWEİG | 50  | 15 KASIM  | -  |
+| 24. | LYON'DA DÜĞÜN | STEFAN ZWEİG | 50  | 15 KASIM  | 16 KASIM  |
 | 23. | BİR KUZEY MACERASI | JACK LONDON | 56  | 4 KASIM  | 4 KASIM  |
 | - |  |  |   |   |   |
 | 22. | BİN MUHTEŞEM GÜNEŞ | KHALED HOSSEINI | 430  |  22 EKİM | 29 EKİM  |
