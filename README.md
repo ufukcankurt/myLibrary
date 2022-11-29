@@ -22,7 +22,7 @@ Benimle direk iletişime geçmek için;
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
 | 26. | MASUMİYET MÜZESİ | ORHAN PAMUK | 520  | 26 KASIM  | -  |
-| 25. | ATEŞ YAKMAK |  JACK LONDON | 58  | 18 KASIM  | -  |
+| 25. | ATEŞ YAKMAK |  JACK LONDON | 58  | 18 KASIM  | 18 KASIM  |
 | 24. | **[LYON'DA DÜĞÜN](./Book_Summaries/128_Lyonda_Dugun_Stefan_Zweig.md)** | STEFAN ZWEİG | 50  | 15 KASIM  | 16 KASIM  |
 | 23. | BİR KUZEY MACERASI | JACK LONDON | 56  | 4 KASIM  | 4 KASIM  |
 | - |  |  |   |   |   |
