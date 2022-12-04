@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 27. | DENİZ DUASI | KHALED HOSSEINI | 48  | 4 ARALIK  | -  |
 | 26. | MASUMİYET MÜZESİ | ORHAN PAMUK | 520  | 26 KASIM  | 3 ARALIK  |
 | - |  |  |   |   |   |
 | 25. | ATEŞ YAKMAK |  JACK LONDON | 58  | 18 KASIM  | 18 KASIM  |
