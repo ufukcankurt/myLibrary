@@ -24,7 +24,7 @@ Benimle direk iletişime geçmek için;
 | 27. | DENİZ DUASI | KHALED HOSSEINI | 48  | 4 ARALIK  | 4 ARALIK  |
 | 26. | MASUMİYET MÜZESİ | ORHAN PAMUK | 520  | 26 KASIM  | 3 ARALIK  |
 | - |  |  |   |   |   |
-| 25. | ATEŞ YAKMAK |  JACK LONDON | 58  | 18 KASIM  | 18 KASIM  |
+| 25. | **[ATEŞ YAKMAK](./Book_Summaries/130_Ates_Yakmak_Jack_London.md)** |  JACK LONDON | 58  | 18 KASIM  | 18 KASIM  |
 | 24. | **[LYON'DA DÜĞÜN](./Book_Summaries/128_Lyonda_Dugun_Stefan_Zweig.md)** | STEFAN ZWEİG | 50  | 15 KASIM  | 16 KASIM  |
 | 23. | BİR KUZEY MACERASI | JACK LONDON | 56  | 4 KASIM  | 4 KASIM  |
 | - |  |  |   |   |   |
