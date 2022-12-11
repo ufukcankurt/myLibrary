@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 28. | ÖLÜLER EVİNDEN ANILAR  |  FYODOR DOSTOYEVSKİ | 376  |  8 ARALIK | -  |
+| 28. | ÖLÜLER EVİNDEN ANILAR  |  FYODOR DOSTOYEVSKİ | 376  |  8 ARALIK | 11 ARALIK  |
 | 27. | DENİZ DUASI | KHALED HOSSEINI | 48  | 4 ARALIK  | 4 ARALIK  |
 | 26. | MASUMİYET MÜZESİ | ORHAN PAMUK | 520  | 26 KASIM  | 3 ARALIK  |
 | - |  |  |   |   |   |
