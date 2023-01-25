@@ -5,10 +5,10 @@
 Benimle direk iletişime geçmek için;
 ##### telegram :[**`t.me/ufukcankurt`**](https://t.me/ufukcankurt)
 
-<br> 
+<br>
 
- ***NOT:*** 
- 
+ ***NOT:***
+
  - *Mevcut olan kitap özetlerine ve alıntılara ulaşmak için, mavi renkteki kitap isimlerine tıklayabilirsiniz.*
  - *Okuduğum kitapları takip etmek isterseniz repoma `star ve watch` atabilirsiniz*
 
@@ -74,47 +74,47 @@ Benimle direk iletişime geçmek için;
 | 66. | KAMELYALI KADIN  | ALEXANDRE DUMAS (FILS) | 234  | 6 ARALIK  | 14 ARALIK  |
 | 65. | DOKUZA KADAR ON | ÖZDEMİR ASAF | 112  | 1 ARALIK  |  2 ARALIK |
 | - |  |  |   |   |   |
-| 64. | DEĞİRMEN | SABAHATTİN ALİ | 140  |  29 KASIM | 30 KASIM  |
+| 64. | **[DEĞİRMEN](./Book_Summaries/97_Degirmen_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 140  |  29 KASIM | 30 KASIM  |
 | 63. | **[ÜÇ BÜYÜK USTA - BALZAC, DİCKENS, DOSTOYEVSKİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/96_Uc_Buyuk_Usta-Balzac-Dickens-Dostoyevski-Stefan_Zweig.md)** | STEFAN ZWEIG | 228  | 16 KASIM   |  27 KASIM |
 | 62. | **[ANAYURT OTELİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/95_Anayurt_Oteli_Yusuf_Atilgan.md)** | YUSUF ATILGAN |  128 | 12 KASIM   | 13 KASIM  |
 | 61. | **[NOEL'DE CİNAYET](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/94_Noelde_Cinayet_Agatha_Christie.md)** | AGATHA CHRISTIE | 176  | 4 KASIM  | 5 KASIM  |
 | - |  |  |   |   |   |
-| 60. | **[BÖYLE SÖYLEDİ ZERDÜŞT](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/93_Boyle_Soyledi_Zerdust_Friedrich_Nietzsche.md)** | FRIEDRICH NIETZSCHE | 335  |  14 EKİM | 28 EKİM  | 
-| 59. | **[ALTINCI KOĞUŞ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/92_Altinci_Kogus_Anton_Cehov.md)**  | ANTON ÇEHOV  | 68  | 12 EKİM  | 12 EKİM  | 
-| 58. | **[YÜZYÜZE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/91_Yuzyuze_Cengiz_Aytmatov.md)** | CENGİZ AYTMATOV  |  63 | 7 EKİM  | 7 EKİM  | 
-| 57. | **[CEMİLE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/90_Cemile_Cengiz_Aytmatov.md)** |  CENGİZ AYTMATOV | 80  |  3 EKİM | 3 EKİM  | 
-| - |  |  |   |   |   | 
-| 56. | **[HENÜZ VAKİT VARKEN GÜLÜM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/89_Henuz_Vakit_Varken_Gulum_Nazim_Hikmet.md)** | NÂZIM HİKMET  | 112  |  24 EYLÜL | 24 EYLÜL  | 
-| 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  | 
-| 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  | 
-| 53. | **[GÖĞE BAKMA DURAĞI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/86_Goge_Bakma_Duragi_Turgut_Uyar.md)** | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  | 
-| - |  |  |   |   |   | 
-| 52. | **[`KARAMAZOV KARDEŞLER`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/85_Karamazov_Kardesler_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  | 
-| 51. | **[KORKU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/84_Korku_Stefan_Zweig.md)** | STEFAN ZWEIG |  80  | 16 AĞUSTOS  | 16 AĞUSTOS  | 
-| 50. | **[ZAMAN MAKİNESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/83_Zaman_Makinesi_H_G_Wells.md)** | H.G WELLS | 144  | 13 AĞUSTOS  | 14 AĞUSTOS  | 
-| 49. | **[BÜLBÜLÜ ÖLDÜRMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/82_Bulbulu_Oldurmek_Harper_Lee.md)** | HARPER LEE  | 360  | 10 AĞUSTOS  | 12 AĞUSTOS  | 
-| 48. | **[FAHRENHEIT 451](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/81_Fahrenheit_451_Ray_Bradbury.md)** |  RAY BRADBURY |208   | 2 AĞUSTOS   | 4 AĞUSTOS  | 
-| - |  |  |   |   |   | 
-| 47. | **[YENİ DÜNYA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/80_Yeni_Dunya_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 128  | 30 TEMMUZ  | 31 TEMMUZ  | 
-| 46. | **[`MARTI JONATHAN LIVINGSTON`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/79_Marti_Jonathan_Livingston_Richard_Bach.md)** | RICHARD BACH | 147  |  26 TEMMUZ | 27 TEMMUZ  | 
-| 45. | **[GÖLGE İZ BIRAKMAZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/78_Golge_Iz_Birakmaz_Jean-Luc_Bannalec.md)** | JEAN-LUC BANNALEC |  344 | 24 TEMMUZ   |  26 TEMMUZ | 
-| 44. | **[DNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/77_DNA_Yrsa_Sigurdardottir.md)** | YRSA SIGURDARDOTTIR | 486  | 17 TEMMUZ  |  22 TEMMUZ | 
-| 43. | **[CANIM ALİYE, RUHUM FİLİZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/76_Canim_Aliye_Ruhum_Filiz_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 160  | 14 TEMMUZ  | 14 TEMMUZ  | 
-| 42. | **[HASRETİNDEN PRANGALAR ESKİTTİM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/75_Hasretinden_Prangalar_Eskittim_Ahmed_Arif.md)** | AHMED ARİF | 184  | 11 TEMMUZ  | 12 TEMMUZ  | 
-| 41. | **[`SUÇ VE CEZA`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/74_Suc_Ve_Ceza_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 687  | 2 TEMMUZ  | 9 TEMMUZ  | 
-| 40. | **[KÜÇÜK PRENS](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/73_Kucuk_Prens_Antoine_De_Saint_Exupery.md)** | ANTOINE DE SAINT-EXUPÊRY | 109  |  1 TEMMUZ | 1 TEMMUZ | 
-| - |  |  |   |   |   | 
-| 39. | **[HUZURSUZLUK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/72_Huzursuzluk_Zulfu_Livaneli.md)**  | ZÜLFÜ LİVANELİ | 160  | 27 HAZİRAN   | 29 HAZİRAN  | 
-| 38. | FARKINDALIK | OSHO | 225  | 12 HAZİRAN  | 22 HAZİRAN  | 
+| 60. | **[BÖYLE SÖYLEDİ ZERDÜŞT](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/93_Boyle_Soyledi_Zerdust_Friedrich_Nietzsche.md)** | FRIEDRICH NIETZSCHE | 335  |  14 EKİM | 28 EKİM  |
+| 59. | **[ALTINCI KOĞUŞ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/92_Altinci_Kogus_Anton_Cehov.md)**  | ANTON ÇEHOV  | 68  | 12 EKİM  | 12 EKİM  |
+| 58. | **[YÜZYÜZE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/91_Yuzyuze_Cengiz_Aytmatov.md)** | CENGİZ AYTMATOV  |  63 | 7 EKİM  | 7 EKİM  |
+| 57. | **[CEMİLE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/90_Cemile_Cengiz_Aytmatov.md)** |  CENGİZ AYTMATOV | 80  |  3 EKİM | 3 EKİM  |
+| - |  |  |   |   |   |
+| 56. | **[HENÜZ VAKİT VARKEN GÜLÜM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/89_Henuz_Vakit_Varken_Gulum_Nazim_Hikmet.md)** | NÂZIM HİKMET  | 112  |  24 EYLÜL | 24 EYLÜL  |
+| 55. | ZAMAN YARATMAK | JAKE KNAPP | 352  | 13 EYLÜL  | 21 EYLÜL  |
+| 54. | ATOMİK ALIŞKANLIKLAR  | JAMES CLEAR  | 320  | 6 EYLÜL  | 11 EYLÜL  |
+| 53. | **[GÖĞE BAKMA DURAĞI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/86_Goge_Bakma_Duragi_Turgut_Uyar.md)** | TURGUT UYAR | 112  | 4 EYLÜL  | 4 EYLÜL  |
+| - |  |  |   |   |   |
+| 52. | **[`KARAMAZOV KARDEŞLER`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/85_Karamazov_Kardesler_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 1025  | 18 AĞUSTOS  | 31 AĞUSTOS  |
+| 51. | **[KORKU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/84_Korku_Stefan_Zweig.md)** | STEFAN ZWEIG |  80  | 16 AĞUSTOS  | 16 AĞUSTOS  |
+| 50. | **[ZAMAN MAKİNESİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/83_Zaman_Makinesi_H_G_Wells.md)** | H.G WELLS | 144  | 13 AĞUSTOS  | 14 AĞUSTOS  |
+| 49. | **[BÜLBÜLÜ ÖLDÜRMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/82_Bulbulu_Oldurmek_Harper_Lee.md)** | HARPER LEE  | 360  | 10 AĞUSTOS  | 12 AĞUSTOS  |
+| 48. | **[FAHRENHEIT 451](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/81_Fahrenheit_451_Ray_Bradbury.md)** |  RAY BRADBURY |208   | 2 AĞUSTOS   | 4 AĞUSTOS  |
+| - |  |  |   |   |   |
+| 47. | **[YENİ DÜNYA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/80_Yeni_Dunya_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 128  | 30 TEMMUZ  | 31 TEMMUZ  |
+| 46. | **[`MARTI JONATHAN LIVINGSTON`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/79_Marti_Jonathan_Livingston_Richard_Bach.md)** | RICHARD BACH | 147  |  26 TEMMUZ | 27 TEMMUZ  |
+| 45. | **[GÖLGE İZ BIRAKMAZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/78_Golge_Iz_Birakmaz_Jean-Luc_Bannalec.md)** | JEAN-LUC BANNALEC |  344 | 24 TEMMUZ   |  26 TEMMUZ |
+| 44. | **[DNA](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/77_DNA_Yrsa_Sigurdardottir.md)** | YRSA SIGURDARDOTTIR | 486  | 17 TEMMUZ  |  22 TEMMUZ |
+| 43. | **[CANIM ALİYE, RUHUM FİLİZ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/76_Canim_Aliye_Ruhum_Filiz_Sabahattin_Ali.md)** | SABAHATTİN ALİ | 160  | 14 TEMMUZ  | 14 TEMMUZ  |
+| 42. | **[HASRETİNDEN PRANGALAR ESKİTTİM](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/75_Hasretinden_Prangalar_Eskittim_Ahmed_Arif.md)** | AHMED ARİF | 184  | 11 TEMMUZ  | 12 TEMMUZ  |
+| 41. | **[`SUÇ VE CEZA`](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/74_Suc_Ve_Ceza_Fyodor_Mihaylovic_Dostoyevski.md)** | FYODOR MIHAYLOVIC DOSTOYEVSKI | 687  | 2 TEMMUZ  | 9 TEMMUZ  |
+| 40. | **[KÜÇÜK PRENS](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/73_Kucuk_Prens_Antoine_De_Saint_Exupery.md)** | ANTOINE DE SAINT-EXUPÊRY | 109  |  1 TEMMUZ | 1 TEMMUZ |
+| - |  |  |   |   |   |
+| 39. | **[HUZURSUZLUK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/72_Huzursuzluk_Zulfu_Livaneli.md)**  | ZÜLFÜ LİVANELİ | 160  | 27 HAZİRAN   | 29 HAZİRAN  |
+| 38. | FARKINDALIK | OSHO | 225  | 12 HAZİRAN  | 22 HAZİRAN  |
 | 37. | **[RUHUN DİRİLİŞİ](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/70_Ruhun_Dirilisi_Sezai_Karakoc.md)** | SEZAİ KARAKOÇ | 174  | 30 MAYIS  | 1 HAZİRAN  |
-| - |  |  |   |   |   | 
+| - |  |  |   |   |   |
 | 36. | **[PİS MORUĞUN NOTLARI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/69_Pis_Morugun_Notlari_Charles_Bukowski.md)** | CHARLES BUKOWSKI  | 176  | 22 MAYIS  | 24 MAYIS  |
 | 35. | **[UYGARLIĞIN HUZURSUZLUĞU](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/68_Uygarl%C4%B1g%C4%B1n_Huzursuzlugu_Sigmund_Freud.md)** | SIGMUND FREUD | 112  | 17 MAYIS  | 19 MAYIS  |
 | 34. | **[SESSİZLİĞİ DİNLEMEK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/67_Sessizligi_Dinlemek_Osho.md)** | OSHO | 174  | 11 MAYIS  | 16 MAYIS  |
 | 33. | **[CEBİ DELİK](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/66_Cebi_Delik.md)**  | PAUL AUSTER  |  126 | 6 MAYIS  | 7 MAYIS  |
 | 32. | **[KIRMIZI DEFTER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/65_Kirmizi_Defter_Paul_Auster.md)** | PAUL AUSTER | 80  |  4 MAYIS | 4 MAYIS  |
 | 31. | **[ARABA SEVDASI](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/64_Araba_Sevdasi_Recaizade_Mahmut_Ekrem.md)** | RECAİZADE MAHMUT EKREM | 320  | 27 NİSAN  | 3 NAYIS  |
-| - |  |  |   |   |   | 
+| - |  |  |   |   |   |
 | 30. | **[MÜLKSÜZLER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/63_Mulksuzler_Ursula_K_Le_Guin.md)** | URSULA K. LE GUIN | 348  | 19 NİSAN  | 24 NİSAN  |
 | 29. | **[CİNSİYET ÜZERİNE](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/62_cinsiyet_uzerine_sigmund_freud.md)** | SIGMUND FREUD | 152  | 15 NİSAN  | 17 NİSAN  |
 | 28. | **[İYİ DÜŞÜN DOĞRU KARAR VER](https://github.com/ufukcankurt/myLibrary/blob/master/Book_Summaries/61_iyi_dusun_dogru_karar_ver_dogan_cuceloglu.md)** | DOĞAN CÜCELOĞLU | 350  | 9 NİSAN  | 13 NİSAN  |
@@ -234,7 +234,7 @@ Benimle direk iletişime geçmek için;
 | 13. | CAROL GÖMÜLMEDEN | JOSH MALERMAN | 397 |  15 TEMMUZ | 27 TEMMUZ |
 | 12. | KIRMIZI PİYANO | JOSH MALERMAN | 351 | 7 TEMMUZ | 13 TEMMUZ |
 | 11. | TONGUE FU , SÖZLÜ DÖVÜŞ SANATI | SAM HORN | 289 | 28 HAZİRAN | 5 TEMMUZ |
-| - | 
+| - |
 | 10. | CESUR YENİ DÜNYA | ALDOUS HUXLEY | 266 | 4 HAZİRAN | 24 HAZİRAN |
 | - |
 | 9. | OLASILIKSIZ | ADAM FAWER | 470 | 28 NİSAN | 3 MAYIS |
