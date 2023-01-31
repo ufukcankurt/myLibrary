@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 01. | EZİLENLER |  FYODOR DOSTOYEVSKI | 394  | 28 ARALIK  | -  |
+| 01. | EZİLENLER |  FYODOR DOSTOYEVSKI | 394  | 28 OCAK  | 31 OCAK  |
 
 ## 2022
 
