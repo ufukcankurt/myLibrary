@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 03. | OUTLIERS - ÇİZGİNİN DIŞINDAKİLER | MALCOLM GLADWELL | 244  | 7 NİSAN  | -  |
+| - |  |  |   |   |   |
 | 02. | YÜZYILLIK YALNIZLIK | GABRİEL GARCİA MARQUEZ  |  464 | 8 MART  | 18 MART  |
 | - |  |  |   |   |   |
 | 01. | EZİLENLER |  FYODOR DOSTOYEVSKI | 394  | 28 OCAK  | 31 OCAK  |
