@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 04. | SANA GÜL BAHÇESİ VADETMEDİM | JOANNE GREENBERG | 293  | 26 NİSAN  | 7 MAYIS  |
 | 03. | OUTLIERS - ÇİZGİNİN DIŞINDAKİLER | MALCOLM GLADWELL | 244  | 7 NİSAN  | 25 NİSAN |
 | - |  |  |   |   |   |
 | 02. | YÜZYILLIK YALNIZLIK | GABRİEL GARCİA MARQUEZ  |  464 | 8 MART  | 18 MART  |
