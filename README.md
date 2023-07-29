@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 06. | YABANCI | ALBERT CAMUS |  110  | 29 TEMMUZ  |  - |
 | 05. | BİLİNÇALTININ GÜCÜ | JOSEPH MURPHY | 288  |  10 TEMMUZ | 28 TEMMUZ  |
 | - |  |  |   |   |   |
 | 04. | SANA GÜL BAHÇESİ VADETMEDİM | JOANNE GREENBERG | 293  | 26 NİSAN  | 7 MAYIS  |
