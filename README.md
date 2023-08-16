@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 07. | ZENGİN BABA YOKSUL BABA | R. T. KIYOSAKI  | 400  | 13 AĞUSTOS  | -  |
+| - |  |  |   |   |   |
 | 06. | YABANCI | ALBERT CAMUS |  110  | 29 TEMMUZ  |  30 TEMMUZ |
 | 05. | BİLİNÇALTININ GÜCÜ | JOSEPH MURPHY | 288  |  10 TEMMUZ | 28 TEMMUZ  |
 | - |  |  |   |   |   |
