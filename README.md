@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 08. | AKILLI YATIRIMCI | BENJAMIN GRAHAM | 645  | 23 ARALIK  | -  |
+| - |  |  |   |   |   |
 | 07. | ZENGİN BABA YOKSUL BABA | R. T. KIYOSAKI  | 400  | 13 AĞUSTOS  | 30 AĞUSTOS  |
 | - |  |  |   |   |   |
 | 06. | YABANCI | ALBERT CAMUS |  110  | 29 TEMMUZ  |  30 TEMMUZ |
