@@ -17,6 +17,12 @@ Benimle direk iletişime geçmek için;
 
 <br>
 
+## 2024
+
+| # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
+|:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 01. | KÖR BAYKUŞ | SADIK HİDAYET | 96  | 1 OCAK  | -  |
+
 ## 2023
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
