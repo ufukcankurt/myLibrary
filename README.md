@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 01. | KÖR BAYKUŞ | SADIK HİDAYET | 96  | 1 OCAK  | -  |
+| 01. | KÖR BAYKUŞ | SADIK HİDAYET | 96  | 1 OCAK  | 3 OCAK  |
 
 ## 2023
 
