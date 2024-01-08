@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 03. | SAHAF MENDEL | STEFAN ZWEIG |  60 | 6 OCAK  |  - |
+| 03. | SAHAF MENDEL | STEFAN ZWEIG |  60 | 6 OCAK  |  6 OCAK |
 | 02. | DR. JEKYLL İLE BAY HYDE  | ROBERT LOUIS STEVENSON | 104  | 4 OCAK  |  5 OCAK |
 | 01. | KÖR BAYKUŞ | SADIK HİDAYET | 96  | 1 OCAK  | 3 OCAK  |
 
