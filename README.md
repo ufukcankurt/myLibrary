@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 07. | SÜT VE BAL | RUPİ KAUR |  208 | 17 OCAK  | -  |
+| 07. | SÜT VE BAL | RUPİ KAUR |  208 | 17 OCAK  | 20 OCAK  |
 | 06. | ÇAVDAR TARLASINDA ÇOCUKLAR | J.D. SALINGER | 198  | 14 OCAK  |  15 OCAK |
 | 05. | DOST KAZANMA VE İNSANLARI ETKİLEME SANATI | DALE CARNEGIE | 304 | 9 OCAK  | 12 OCAK  |
 | 04. | SİYAH GÖZLER | CEMİL SÜLEYMAN | 75  | 8 OCAK  |  8 OCAK |
