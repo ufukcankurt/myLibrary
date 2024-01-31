@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 09. | GÖMÜLÜ ŞAMDAN | STEFAN ZWEIG | 110 |  28 OCAK | -  |
+| 09. | GÖMÜLÜ ŞAMDAN | STEFAN ZWEIG | 110 |  28 OCAK | 31 OCAK  |
 | 08. | ÜÇ PERDELİK CİNAYET | AGATHA CHRISTIE | 176  |  17 OCAK | 20 OCAK  |
 | 07. | SÜT VE BAL | RUPİ KAUR |  208 | 17 OCAK  | 20 OCAK  |
 | 06. | ÇAVDAR TARLASINDA ÇOCUKLAR | J.D. SALINGER | 198  | 14 OCAK  |  15 OCAK |
