@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 10. | BALIKÇI VE OĞLU | ZÜLFÜ LİVANELİ | 140  | 4 ŞUBAT  |  - |
+| - |  |  |   |   |   |
 | 09. | GÖMÜLÜ ŞAMDAN | STEFAN ZWEIG | 110 |  28 OCAK | 31 OCAK  |
 | 08. | ÜÇ PERDELİK CİNAYET | AGATHA CHRISTIE | 176  |  17 OCAK | 20 OCAK  |
 | 07. | SÜT VE BAL | RUPİ KAUR |  208 | 17 OCAK  | 20 OCAK  |
