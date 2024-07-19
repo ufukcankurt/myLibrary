@@ -21,7 +21,9 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 12. | KAZANMAYI ÖĞREN | PETER LYNCH |  298 | 14 TEMMUZ  | -  |
 | 11. | BORSADA 2M DOLAR NASIL KAZANDIM | NICOLAS DARVAS | 180  | 2 TEMMUZ  | 6 TEMMUZ  |
+| - |  |  |   |   |   |
 | 10. | BALIKÇI VE OĞLU | ZÜLFÜ LİVANELİ | 140  | 4 ŞUBAT  |  11 ŞUBAT |
 | - |  |  |   |   |   |
 | 09. | GÖMÜLÜ ŞAMDAN | STEFAN ZWEIG | 110 |  28 OCAK | 31 OCAK  |
