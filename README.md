@@ -17,6 +17,12 @@ Benimle direk iletişime geçmek için;
 
 <br>
 
+## 2025
+
+| # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
+|:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 01. | ÖLÜM ÇIĞLIĞI | AGATHA CHRISTIE | 271 | 2 OCAK | - |
+
 ## 2024
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
