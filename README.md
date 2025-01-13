@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 2. | AYLAK ADAM | YUSUF ATILGAN | 190 | 9 OCAK | - |
+| 2. | AYLAK ADAM | YUSUF ATILGAN | 190 | 9 OCAK | 13 OCAK |
 | 01. | **[ÖLÜM ÇIĞLIĞI](./Book_Summaries/154_olum_cigligi_agatha_christie.md)** | AGATHA CHRISTIE | 271 | 2 OCAK | 4 OCAK |
 
 ## 2024
