@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 05. | KALK ÇALIŞ BAŞARISIZ OL | BEHÇET YALIN ÖZKARA | 176  | 15 ŞUBAT  |  - |
+| 05. | KALK ÇALIŞ BAŞARISIZ OL | BEHÇET YALIN ÖZKARA | 176  | 15 ŞUBAT  |  19 ŞUBAT |
 | - |  |  |   |   |   |
 | 04. | SON KUŞLAR | SAİT FAİK ABASIYANIK | 134  | 25 OCAK | 28 OCAK  |
 | 03. | LÜZUMSUZ ADAM | SAİT FAİK ABASIYANIK | 108  | 20 OCAK  | 22 OCAK  |
