@@ -21,6 +21,8 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 07. | REZONANS KANUNU | PIERRE FRANCKH | 206  | 2 MART  |  - |
+| - |  |  |   |   |   |
 | 06. | DANSA DAVET | JEAN TEULE |  104 | 22 ŞUBAT  | 24 ŞUBAT  |
 | 05. | KALK ÇALIŞ BAŞARISIZ OL | BEHÇET YALIN ÖZKARA | 176  | 15 ŞUBAT  |  19 ŞUBAT |
 | - |  |  |   |   |   |
