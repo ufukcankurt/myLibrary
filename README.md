@@ -21,6 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
+| 09. | FRANKENSTEIN | MARY SHELLEY |  304 | 8 MART  | -  |
 | 08. | EV SAHİBESİ | FYODOR DOSTOYEVSKI | 158  | 5 MART  | 7 MART |
 | 07. | REZONANS KANUNU | PIERRE FRANCKH | 206  | 2 MART  | 4 MART |
 | - |  |  |   |   |   |
