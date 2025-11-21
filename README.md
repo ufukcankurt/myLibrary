@@ -21,7 +21,7 @@ Benimle direk iletişime geçmek için;
 
 | # | Kitap Adı | Yazarı | Sayfa |Başlangıç Tarihi| Bitiş Tarihi |
 |:-:|:--------|:--------:|:--------:|:------:|:------:|
-| 10. | PÜR-DİKKAT | CAL NEWPORT | 224 |  21 EKİM | - |
+| 10. | PÜR-DİKKAT | CAL NEWPORT | 224 |  21 EKİM | 3 KASIM |
 | - |  |  |   |   |   |
 | 09. | FRANKENSTEIN | MARY SHELLEY |  304 | 8 MART  | 14 MART  |
 | 08. | EV SAHİBESİ | FYODOR DOSTOYEVSKI | 158  | 5 MART  | 7 MART |
